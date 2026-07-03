@@ -1,0 +1,15 @@
+name: Manual Website Deployment
+
+on:
+  workflow_dispatch: # This enables the manual trigger button
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build and Deploy Website
+        run: |
+          echo "Insert your specific build and deployment commands here"

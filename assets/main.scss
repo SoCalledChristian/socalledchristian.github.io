@@ -7,11 +7,11 @@
   position: relative;
   display: inline-block;
   
-  /* Give the element the physical size of your logo */
-  width: 100px;  
-  height: 40px;  
+  /* INCREASED SIZE: Change these numbers to match your preferred scale */
+  width: 250px;  
+  height: 100px;  
   
-  /* Make the text invisible while keeping the logo clickable */
+  /* Keeps the text invisible while keeping the logo clickable */
   color: transparent !important; 
   overflow: hidden;
 }
@@ -26,9 +26,11 @@
   width: 100%;
   height: 100%;
   
-  /* Dynamically pulls the path from your _config.yml logo variable */
+  /* Pulls path from your _config.yml logo variable */
   background-image: url("{{ site.logo | relative_url }}");
-  background-size: contain;
+  
+  /* Scales the image up to fill the 250px width perfectly */
+  background-size: contain; 
   background-repeat: no-repeat;
   background-position: left center;
 }

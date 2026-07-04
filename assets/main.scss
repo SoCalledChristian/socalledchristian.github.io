@@ -16,30 +16,16 @@
   position: relative;
   display: inline-block;
   
-  /* TEXT SIZE CONTROL: Change this value to make the text larger or smaller */
   font-size: 20px !important; 
-  font-weight: normal;
+  font-weight: normal !important; 
   
-  /* POSITIONING OPTIONS: Choose Option A or Option B below */
-  
-  /* -------------------------------------------------------------
-     OPTION A: TEXT IMMEDIATELY TO THE RIGHT OF LOGO
-     ------------------------------------------------------------- */
-  width: auto !important;
+  width: auto !important;  
   height: 70px !important;
-  line-height: 70px !important;   /* Vertically centers the text alongside logo */
-  padding-left: 90px !important; /* Pushes text right to clear the logo */
+  line-height: 70px !important;   
   
-  /* -------------------------------------------------------------
-     OPTION B: TEXT IMMEDIATELY BELOW LOGO 
-     (To use Option B, delete Option A above and uncomment the 3 lines below)
-     ------------------------------------------------------------- 
-     padding-top: 65px !important;   // Pushes text down to clear the logo
-     height: 105px !important;
-     line-height: normal !important; 
-  ------------------------------------------------------------- */
-
-  /* Ensure text color is visible again */
+  /* REDUCED PADDING: We lowered this from 90px to 55px to absorb the image's empty space */
+  padding-left: 55px !important; 
+  
   color: #424242 !important; 
   overflow: visible !important;
 }
@@ -50,14 +36,18 @@
   display: block;
   position: absolute;
   top: 0;
-  left: 0;
   
-  /* LOGO SIZE: Adjust these to dictate the physical scale of the image box */
+  /* SHIFTED LEFT: Moving the image left ensures the transparent edge doesn't push the text */
+  left: -15px; 
+  
   width: 80px;  
   height: 70px;  
   
   background-image: url("{{ site.logo | relative_url }}");
   background-size: contain; 
   background-repeat: no-repeat;
-  background-position: left center;
+  
+  /* FORCE ALIGNMENT: Forces the graphic to snap tightly to the left margin */
+  background-position: left center; 
 }
+

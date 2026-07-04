@@ -25,9 +25,10 @@
   /* -------------------------------------------------------------
      OPTION A: TEXT IMMEDIATELY TO THE RIGHT OF LOGO
      ------------------------------------------------------------- */
-  padding-left: 10px !important; /* Pushes text right to clear the logo */
+  width: auto !important;
   height: 70px !important;
   line-height: 70px !important;   /* Vertically centers the text alongside logo */
+  padding-left: 90px !important; /* Pushes text right to clear the logo */
   
   /* -------------------------------------------------------------
      OPTION B: TEXT IMMEDIATELY BELOW LOGO 

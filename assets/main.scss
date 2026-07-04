@@ -4,7 +4,7 @@
 
 /* 1. ADJUST HEADER HEIGHT */
 .site-header {
-  min-height: 90px; 
+  min-height: 100px; 
 }
 
 .site-nav {
@@ -27,22 +27,22 @@
   padding-top: 15px !important; 
 }
 
-/* 3. FORMAT THE CROPPED LOGO */
+/* 3. FORMAT THE LOGO ASSET CLEANLY */
 .site-title::before {
   content: "";
   display: inline-block;          
   
-  /* 1. RESTORE FULL PHYSICAL BOX BOUNDARIES */
+  /* FIXED: Set container box large enough to hold the graphic */
   width: 75px;                     
   height: 75px;  
   
-  /* 2. PROPORTIONAL TEXT SEPARATION */
+  /* FIXED: Introduces a clean 10px spacing barrier to end the overlap */
   margin-right: 10px;             
   margin-left: 0px;
   
   background-image: url("{{ site.logo | relative_url }}");
   
-  /* 3. CONTAIN THE IMAGE: This stops it from clipping or bloating */
+  /* FIXED: Stops image clipping and scales it cleanly inside the box boundaries */
   background-size: contain;      
   background-repeat: no-repeat;
   background-position: left center; 

@@ -1,0 +1,34 @@
+---
+---
+@import "minima";
+
+/* TARGET MINIMA SITE TITLE */
+.site-title, .site-title:visited {
+  position: relative;
+  display: inline-block;
+  
+  /* Give the element the physical size of your logo */
+  width: 100px;  
+  height: 40px;  
+  
+  /* Make the text invisible while keeping the logo clickable */
+  color: transparent !important; 
+  overflow: hidden;
+}
+
+/* INJECT YOUR PNG LOGO BACKGROUND */
+.site-title::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  /* Dynamically pulls the path from your _config.yml logo variable */
+  background-image: url("{{ site.logo | relative_url }}");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+}

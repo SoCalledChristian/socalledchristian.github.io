@@ -30,20 +30,20 @@
 /* 3. FORMAT THE CROPPED LOGO */
 .site-title::before {
   content: "";
-  display: inline-block;          /* Fits neatly inside the flex layout */
+  display: inline-block;          
   
-  /* 1. INCREASE CONTAINER SIZE to bring the book graphic back to a good size */
-  width: 60px;                     
-  height: 60px;  
+  /* 1. RESTORE FULL PHYSICAL BOX BOUNDARIES */
+  width: 75px;                     
+  height: 75px;  
   
-  /* 2. CHOP OUT THE WHITESPACE using negative margins to pull the text closer */
-  margin-right: -15px;             
-  margin-left: -5px;
+  /* 2. PROPORTIONAL TEXT SEPARATION */
+  margin-right: 10px;             
+  margin-left: 0px;
   
   background-image: url("{{ site.logo | relative_url }}");
   
-  /* 3. ZOOM IN on the graphic to hide the invisible outer padding */
-  background-size: 150% auto;      
+  /* 3. CONTAIN THE IMAGE: This stops it from clipping or bloating */
+  background-size: contain;      
   background-repeat: no-repeat;
-  background-position: center center; 
+  background-position: left center; 
 }

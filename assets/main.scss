@@ -27,20 +27,23 @@
   padding-top: 15px !important; 
 }
 
-/* 3. FORMAT THE CROPPED LOGO (USE THIS NEW VERSION) */
+/* 3. FORMAT THE CROPPED LOGO */
 .site-title::before {
   content: "";
   display: inline-block;          /* Fits neatly inside the flex layout */
   
-  /* Set the exact size you want the graphic to appear */
-  width: 45px;                     
-  height: 45px;  
+  /* 1. INCREASE CONTAINER SIZE to bring the book graphic back to a good size */
+  width: 60px;                     
+  height: 60px;  
   
-  /* Adds a crisp 12px gap between the graphic and the text */
-  margin-right: 12px;             
+  /* 2. CHOP OUT THE WHITESPACE using negative margins to pull the text closer */
+  margin-right: -15px;             
+  margin-left: -5px;
   
   background-image: url("{{ site.logo | relative_url }}");
-  background-size: contain;      
+  
+  /* 3. ZOOM IN on the graphic to hide the invisible outer padding */
+  background-size: 150% auto;      
   background-repeat: no-repeat;
   background-position: center center; 
 }

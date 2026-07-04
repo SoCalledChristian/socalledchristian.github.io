@@ -11,23 +11,20 @@
   line-height: 100px; /* Keeps menu links vertically centered */
 }
 
-/* 2. RESTORE AND FORMAT THE TEXT TITLE */
+/* 2. FORMAT THE TITLE CONTAINER */
 .site-title, .site-title:visited {
-  position: relative;
-  display: inline-block;
+  display: flex !important;       /* Places logo and text side-by-side */
+  align-items: center !important;  /* Centers them vertically */
+  width: auto !important;  
+  height: 80px !important;
   
   font-size: 20px !important; 
   font-weight: normal !important; 
-  
-  width: auto !important;  
-  height: 70px !important;
-  line-height: 70px !important;   
-  
-  /* REDUCED PADDING: We lowered this from 90px to 55px to absorb the image's empty space */
-  padding-left: 55px !important; 
-  
   color: #424242 !important; 
   overflow: visible !important;
+
+  /* NEW: Pushes both elements down simultaneously without breaking alignment */
+  padding-top: 15px !important; 
 }
 
 /* 3. POSITION AND SCALE THE LOGO */

@@ -2,39 +2,58 @@
 ---
 @import "minima";
 
-/* 1. OVERRIDE MINIMA'S SITE HEADER HEIGHT CONSTRAINTS */
+/* 1. ADJUST HEADER HEIGHT FOR BOTH LOGO + TEXT */
 .site-header {
-  min-height: 110px; /* Gives your 100px tall logo room to breathe */
+  min-height: 110px; 
 }
 
 .site-nav {
-  line-height: 100px; /* Vertically centers your navigation menu links with your logo */
+  line-height: 100px; /* Keeps menu links vertically centered */
 }
 
-/* 2. TARGET MINIMA SITE TITLE CONTAINER */
+/* 2. RESTORE AND FORMAT THE TEXT TITLE */
 .site-title, .site-title:visited {
   position: relative;
   display: inline-block;
   
-  /* Forces the layout to accept your upscale dimensions */
-  width: 250px !important;  
-  height: 100px !important;  
-  line-height: 100px !important; /* Matches line height to height */
+  /* TEXT SIZE CONTROL: Change this value to make the text larger or smaller */
+  font-size: 26px !important; 
+  font-weight: bold;
   
-  /* Keeps the text invisible while keeping the logo clickable */
-  color: transparent !important; 
-  overflow: hidden;
+  /* POSITIONING OPTIONS: Choose Option A or Option B below */
+  
+  /* -------------------------------------------------------------
+     OPTION A: TEXT IMMEDIATELY TO THE RIGHT OF LOGO
+     ------------------------------------------------------------- */
+  padding-left: 90px !important; /* Pushes text right to clear the logo */
+  height: 70px !important;
+  line-height: 70px !important;   /* Vertically centers the text alongside logo */
+  
+  /* -------------------------------------------------------------
+     OPTION B: TEXT IMMEDIATELY BELOW LOGO 
+     (To use Option B, delete Option A above and uncomment the 3 lines below)
+     ------------------------------------------------------------- 
+     padding-top: 65px !important;   // Pushes text down to clear the logo
+     height: 105px !important;
+     line-height: normal !important; 
+  ------------------------------------------------------------- */
+
+  /* Ensure text color is visible again */
+  color: #424242 !important; 
+  overflow: visible !important;
 }
 
-/* 3. INJECT YOUR PNG LOGO BACKGROUND */
+/* 3. POSITION AND SCALE THE LOGO */
 .site-title::before {
   content: "";
   display: block;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  
+  /* LOGO SIZE: Adjust these to dictate the physical scale of the image box */
+  width: 80px;  
+  height: 70px;  
   
   background-image: url("{{ site.logo | relative_url }}");
   background-size: contain; 

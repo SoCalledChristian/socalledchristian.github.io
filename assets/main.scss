@@ -2,21 +2,31 @@
 ---
 @import "minima";
 
-/* TARGET MINIMA SITE TITLE */
+/* 1. OVERRIDE MINIMA'S SITE HEADER HEIGHT CONSTRAINTS */
+.site-header {
+  min-height: 110px; /* Gives your 100px tall logo room to breathe */
+}
+
+.site-nav {
+  line-height: 100px; /* Vertically centers your navigation menu links with your logo */
+}
+
+/* 2. TARGET MINIMA SITE TITLE CONTAINER */
 .site-title, .site-title:visited {
   position: relative;
   display: inline-block;
   
-  /* INCREASED SIZE: Change these numbers to match your preferred scale */
-  width: 250px;  
-  height: 100px;  
+  /* Forces the layout to accept your upscale dimensions */
+  width: 250px !important;  
+  height: 100px !important;  
+  line-height: 100px !important; /* Matches line height to height */
   
   /* Keeps the text invisible while keeping the logo clickable */
   color: transparent !important; 
   overflow: hidden;
 }
 
-/* INJECT YOUR PNG LOGO BACKGROUND */
+/* 3. INJECT YOUR PNG LOGO BACKGROUND */
 .site-title::before {
   content: "";
   display: block;
@@ -26,10 +36,7 @@
   width: 100%;
   height: 100%;
   
-  /* Pulls path from your _config.yml logo variable */
   background-image: url("{{ site.logo | relative_url }}");
-  
-  /* Scales the image up to fill the 250px width perfectly */
   background-size: contain; 
   background-repeat: no-repeat;
   background-position: left center;

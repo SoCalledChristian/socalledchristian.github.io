@@ -3,7 +3,7 @@ layout: page
 title: Three Arguments Against Sola Scriptura
 ---
 
-This covers three strong arguments against the Protestant doctrine of Sola Scriptura:
+This covers three fairly strong arguments against the Protestant doctrine of Sola Scriptura:
 
 1. Availabilty
 2. Anarchy

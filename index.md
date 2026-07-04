@@ -6,5 +6,5 @@ Welcome to this unnamed site! We focus on presenting concise ***unorthodox*** ma
 
 Each topic also contains a comments section. Everyone is encouraged to read the comments, but posting your own requires a free account.
 
-- [Sola Scriptura](/cheat-sheets/sola-scriptura.md)
-- [Five Gospels](/cheat-sheets/five-gospels.md)
+- [Sola Scriptura](/cheat-sheets/sola-scriptura.md) - a modern and misguided doctrine
+- [Five Gospels](/cheat-sheets/five-gospels.md) - the most influential one doesn't even have a formal name

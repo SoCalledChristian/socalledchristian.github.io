@@ -8,6 +8,6 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
 - Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
 - Does God actually forgive sins?
 
-[Download the PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
+View and (optionally) download the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
 
 [![Five Gospels thumbnail](/assets/thumbnails/five-gospels-thumbnail-300px.png)](/assets/pdfs/five-gospels.pdf)

@@ -7,7 +7,7 @@ There are three strong arguments against the Protestant doctrine of Sola Scriptu
 
 1. Availabilty -  it took several centuries to finalize the New Testament, and even longer for regular people to obtain it for themselves
 2. Anarchy - complicated and confusing material + personal interpretation = a fractured religion 
-3. Authorship - the New Testament's most prolific writer had a credibility problem
+3. Authorship - the New Testament's most prolific writer had a chronic credibility problem
 
 View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 

@@ -3,7 +3,10 @@ layout: page
 title: Five Gospels
 ---
 
-Most people don't realize the "Gospel of Paul" preceded the other four!
+Did you know that the "Gospel of Paul" preceded the other four? Do you think you know what it says?
+- Did Paul preach the same gospel as Jesus?
+- Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
+- Does God actually forgive sins?
 
 [Download the PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
 

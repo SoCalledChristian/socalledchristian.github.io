@@ -3,13 +3,11 @@ layout: page
 title: One Lord, One Faith, Two Pauls
 ---
 
-Who's your favorite apostle? Most evangelicals would say it's Paul. If that's your answer, then *which* Paul is your favorite? The one in Acts, or the one who wrote the letters? 
+Who's your favorite apostle? Most people would say it's Paul. If that's your answer, then *which* Paul is your favorite? The one in Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these:
 
-If you don't understand the follow-up question, you should read and (optionally) download this [PDF](/assets/pdfs/two-pauls.pdf), and add your comments below.
-
-1. Was Luke actually one of Paul's most prolific ministry partners?
-2. Is Acts just a rehash of the content found in Paul's letters?
-3. Did all of the original apostles defer to Paul?
+- Is Acts just a rehash of Paul's letters?
+- What was the *real* relationship between Paul and Peter?
+- Did the other apostles look to Paul as their new leader?
 
 View and (optionally) download the [PDF](/assets/pdfs/two-pauls.pdf), and add your comments below.
 

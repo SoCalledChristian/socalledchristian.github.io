@@ -13,4 +13,4 @@ If you don't understand the follow-up question, you should read and (optionally)
 
 View and (optionally) download the [PDF](/assets/pdfs/two-pauls.pdf), and add your comments below.
 
-[![Two Pauls thumbnail](/assets/thumbnails/sola-scriptura-thumbnail-300px.png)](/assets/pdfs/sola-scriptura.pdf)
+[![Two Pauls thumbnail](/assets/thumbnails/two-pauls-thumbnail-300px.png)](/assets/pdfs/two-pauls.pdf)

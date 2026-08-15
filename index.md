@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to The Paper Pope! We focus on presenting concise *unorthodox* material about a variety of biblical topics. Each page linked below contains a quick overview, a comments section, and a PDF cheat sheet. 
+Welcome to The Paper Pope! We focus on presenting concise *unorthodox* material about a variety of biblical topics. Each page linked below contains a quick overview, a comments section, and a one-page PDF cheat sheet. 
 
 Note: Everyone is encouraged to read the comments, but posting your own requires a free account.
 

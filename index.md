@@ -8,4 +8,4 @@ Note: Everyone is encouraged to read the comments, but posting your own requires
 
 - [Paper Pope](/cheat-sheets/sola-scriptura.md) - the modern and misguided doctrine of Sola Scriptura
 - [Five Gospels](/cheat-sheets/five-gospels.md) - the most influential one doesn't even have a formal name
-- [Two Pauls](/cheat-sheets/two-pauls.md) - a Paul divided against himself?
+- [Two Pauls](/cheat-sheets/two-pauls.md) - can a Paul divided against himself stand?

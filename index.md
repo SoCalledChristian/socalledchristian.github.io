@@ -6,6 +6,6 @@ Welcome to The Paper Pope! We focus on presenting concise *unorthodox* material 
 
 Note: Everyone is encouraged to read the comments, but posting your own requires a free account.
 
-- [Paper Pope](/cheat-sheets/sola-scriptura.md) - the modern and misguided doctrine of Sola Scriptura <div style="page-break-after: always;"></div>
-- [Five Gospels](/cheat-sheets/five-gospels.md) - the most influential one doesn't even have a formal name <div style="page-break-after: always;"></div>
+- [Paper Pope](/cheat-sheets/sola-scriptura.md) - the modern and misguided doctrine of Sola Scriptura <br>
+- [Five Gospels](/cheat-sheets/five-gospels.md) - the most influential one doesn't even have a formal name <br>
 - [Two Pauls](/cheat-sheets/two-pauls.md) - can a Paul divided against himself stand?

@@ -3,7 +3,7 @@ layout: page
 title: One Lord, One Faith, Two Pauls
 ---
 
-Who's your favorite apostle? Most people would say it's Paul. If that's your answer, then *which* Paul is your favorite? The one in Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
+Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
 
 - Is Acts mostly a rehash of Paul's letters?<br><br>
 - How strong was the friendship between Paul and Peter?<br><br>

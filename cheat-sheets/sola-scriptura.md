@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Slippery Slope of Sola Scriptura
+title: Sola Scriptura's Slippery Slope
 ---
 
 Three main arguments against the Protestant doctrine of Sola Scriptura:

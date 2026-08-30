@@ -16,3 +16,9 @@
   font-size: 26px !important; 
   letter-spacing: -0.5px;
 }
+
+/* 5. LEFT-ALIGN HEADER WRAPPER */
+.site-header .wrapper {
+  display: flex;
+  justify-content: flex-start;
+}

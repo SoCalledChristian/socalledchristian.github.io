@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge the beliefs you've had since childhood. Each page linked below contains a brief overview, a comments section, and a one-page PDF cheat sheet. 
+Welcome to Orthodox Heretic, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge the beliefs you've had since childhood. Each page linked below contains a brief overview, a comments section, and a one-page PDF cheat sheet. 
 
 Note: Everyone is encouraged to read the comments, but posting your own requires a free account.
 

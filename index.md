@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+<p style="font-style: italic; color: #666; margin-top: -10px;">You probably inherited your faith. Let us help you examine it.</p>
 
 Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge the beliefs you've had since childhood. Each page linked below contains a brief overview, a comments section, and a one-page PDF cheat sheet. 
 

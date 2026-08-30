@@ -20,5 +20,6 @@
 /* 5. LEFT-ALIGN HEADER WRAPPER */
 .site-header .wrapper {
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
 }

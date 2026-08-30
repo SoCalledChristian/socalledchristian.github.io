@@ -11,51 +11,8 @@
   line-height: 80px; /* Vertically centers menu links */
 }
 
-/* 2. FORMAT THE TITLE CONTAINER */
-.site-title, .site-title:visited {
-  display: flex !important;       /* Places logo and text side-by-side */
-  align-items: center !important;  /* Centers them vertically */
-  width: auto !important;  
-  height: 80px !important;
-  
-  font-size: 20px !important; 
-  font-weight: normal !important; 
-  color: #424242 !important; 
-  overflow: visible !important;
-
-  /* Pushes both elements down simultaneously */
-  padding-top: 15px !important; 
-}
-
-/* 3. FORMAT THE LOGO ASSET CLEANLY */
-.site-title::before {
-  content: "";
-  display: inline-block;          
-  
-  /* FIXED: Set container box large enough to hold the graphic */
-  width: 75px;                     
-  height: 75px;  
-  
-  /* FIXED: Introduces a clean 10px spacing barrier to end the overlap */
-  margin-right: 10px;             
-  margin-left: 0px;
-  
-  background-image: url("{{ site.logo | relative_url }}");
-  
-  /* FIXED: Stops image clipping and scales it cleanly inside the box boundaries */
-  background-size: contain;      
-  background-repeat: no-repeat;
-  background-position: left center; 
-}
-
 /* 4. FORMAT THE INDIVIDUAL PAGES */
 .page-title, .post-title {
   font-size: 26px !important; 
   letter-spacing: -0.5px;
-}
-
-/* 5. LEFT-ALIGN HEADER WRAPPER */
-.site-header .wrapper {
-  display: flex;
-  justify-content: flex-start;
 }

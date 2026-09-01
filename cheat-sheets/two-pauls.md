@@ -11,6 +11,6 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 
 The answers in this [PDF](/assets/pdfs/two-pauls.pdf) may surprise you. Check it out and add your comments below.
 
-<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. All that’s required is an email address.
-
 [![Two Pauls thumbnail](/assets/thumbnails/two-pauls-thumbnail-300px.png)](/assets/pdfs/two-pauls.pdf)
+
+<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. All that’s required is an email address.

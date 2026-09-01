@@ -11,6 +11,6 @@ Three main arguments against the doctrine of Sola Scriptura:
 
 View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 
-<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. All that’s required is an email address.
-
 [![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/sola-scriptura-thumbnail-300px.png)](/assets/pdfs/sola-scriptura.pdf)
+
+<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. All that’s required is an email address.

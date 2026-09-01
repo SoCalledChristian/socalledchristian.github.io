@@ -3,7 +3,7 @@ layout: page
 title: Sola Scriptura's Slippery Slope
 ---
 
-Three main arguments against the Protestant doctrine of Sola Scriptura:
+Three main arguments against the doctrine of Sola Scriptura:
 
 1. Availability: it took several centuries to finalize the New Testament, and even longer for regular people to obtain it for themselves<br><br>
 2. Anarchy: complicated and confusing material + personal interpretation = a fractured religion<br><br>

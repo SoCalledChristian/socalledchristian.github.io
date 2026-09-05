@@ -13,4 +13,4 @@ View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and a
 
 [![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/sola-scriptura-thumbnail-300px.png)](/assets/pdfs/sola-scriptura.pdf)
 
-<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. All that’s required is an email address.
+<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. You can sign up instantly using your existing Google or Apple account.

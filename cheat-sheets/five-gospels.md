@@ -21,6 +21,9 @@ Does God actually forgive sins?
 - Jesus' preached that God's forgiveness of sins is contingent only upon repentance
 - Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
 - For Paul, if God could simply forgive sins, then Jesus would have died for nothing.
+<br><br>
+
+**Bottom line:** Paul's gospel virtually ignores what Jesus actually taught.
 
 View and (optionally) download the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
 

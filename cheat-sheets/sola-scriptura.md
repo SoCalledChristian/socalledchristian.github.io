@@ -16,10 +16,11 @@ create their own personal doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
 - Complicated and confusing material + personal interpretation = a fractured religion
 
-3. Authorship: The New Testament's most prolific writer had a chronic credibility problem.
-- The apostle Paul explicitly asserted he would be alive for Jesus' return.
-- Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
-- Paul publicly confronted Peter in front of the church in Antioch about his stance on eating with Gentiles.
+Well even so, at least we know all of the New Testament authors wrote exactly what God wanted them to.
+- Actually, the New Testament's most prolific writer had a chronic credibility problem:
+  - The apostle Paul explicitly asserted he would be alive for Jesus' return.
+  - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
+  - Paul publicly confronted Peter in front of the church in Antioch about his stance on eating with Gentiles.
 
 
 **Bottom line:** For the first ~70% of Christian history, Sola Scriptura was impossible.

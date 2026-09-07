@@ -12,7 +12,7 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
 
 - Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
   - Jesus called on people who **needed** to repent.
-  - He also explicitly acknowledged righteous people who **didn't** need to.
+  - He also explicitly acknowledged ordinary righteous people who **didn't** need to.
   - Paul barely mentioned repentance in any of his letters.
 
 - Does God actually forgive sins?

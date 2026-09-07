@@ -12,7 +12,7 @@ of the church.
 
 Okay, but didn't God intend for all Christians to eventually interpret the Bible by themselves?
 - Widespread Bible availability created a new problem: Regular people could suddenly use scripture to
-create their own personal cafeteria-style doctrines and dogmas.
+create their own personal doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
 - Complicated and confusing material + personal interpretation = a fractured religion
 

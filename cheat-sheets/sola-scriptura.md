@@ -25,7 +25,7 @@ Well even so, didn't all of the New Testament authors write exactly what God ins
 **Bottom line:** 
 - For the first ~70% of Christian history, Sola Scriptura was impossible.
 - It has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.
-- A large portion of the New Testament was written by a false prophet (Deut. 18:17-22) – a man who was also in conflict with the original apostles throughout his entire ministry.
+- A large portion of the New Testament was written by a false prophet (according to Deut. 18:17-22) – a man who was also in conflict with the original apostles throughout his entire ministry.
 
 See all of the details in the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 

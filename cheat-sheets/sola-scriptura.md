@@ -8,7 +8,7 @@ Three arguments against the doctrine of Sola Scriptura:
 1. Availability: The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.
 - It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon"). <br>
-- Even after the canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all bibles were confined to churches and monasteries.
+- Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all bibles were confined to churches and monasteries.
 - It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.
 - **Bottom line:** For the first ~70% of Christian history, Sola Scriptura was impossible.
 <br><br>

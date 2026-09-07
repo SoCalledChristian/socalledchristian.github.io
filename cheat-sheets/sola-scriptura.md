@@ -17,7 +17,7 @@ of the church.
 - Widespread Bible availability created a new problem: Regular people could suddenly use scripture to
 create their own personal cafeteria-style doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
-- **Bottom line:** Sola Scriptura has caused Christianity to fracture into countless denominations (and sub-denominations), each claiming scriptural authority.
+- **Bottom line:** Sola Scriptura has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.
 
 3. Authorship: the New Testament's most prolific writer had a chronic credibility problem
 

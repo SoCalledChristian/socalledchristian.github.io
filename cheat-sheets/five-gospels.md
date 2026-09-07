@@ -5,20 +5,20 @@ title: Five Gospels
 
 Did you know the "Gospel of Paul" preceded the other four? Do you know what it really says?
 
-Did Paul preach the same gospel as Jesus?
-- Jesus' gospel focused on God's imminent kingdom **on earth**
-- Paul never even mentioned an earthly kingdom
-- In fact, Paul quoted the words of Jesus in only one of his letters
+- Did Paul preach the same gospel as Jesus?
+  -- Jesus' gospel focused on God's imminent kingdom **on earth**
+  -- Paul never even mentioned an earthly kingdom
+  -- In fact, Paul quoted the words of Jesus in only one of his letters
 
-Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
-- Jesus called on people who **needed** to repent
-- Jesus explicitly acknowledged the existence of regular righteous people who **didn't** need to
-- Paul barely mentioned repentance in any of his letters
+- Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
+  -- Jesus called on people who **needed** to repent
+  -- He also explicitly acknowledged the existence of righteous people who **didn't** need to
+  -- Paul barely mentioned repentance in any of his letters
 
-Does God actually forgive sins?
-- Jesus' preached that God's forgiveness of sins is contingent only upon repentance
-- Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
-- For Paul, if God could simply forgive sins, then Jesus would have died for nothing.
+- Does God actually forgive sins?
+  -- Jesus' preached that God's forgiveness of sins is contingent only upon repentance
+  -- Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
+  -- For Paul, if God could simply forgive sins, then Jesus would have died for nothing.
 
 **Bottom line:** Paul's gospel virtually ignores what Jesus actually taught.
 

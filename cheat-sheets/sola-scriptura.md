@@ -20,7 +20,7 @@ create their own personal cafeteria-style doctrines and dogmas.
 - **Bottom line:** Sola Scriptura has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.
 <br><br>
 
-3. Authorship: the New Testament's most prolific writer had a chronic credibility problem
+3. Authorship: The New Testament's most prolific writer had a chronic credibility problem.
 - 
 
 View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.

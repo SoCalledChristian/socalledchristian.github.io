@@ -21,7 +21,12 @@ create their own personal cafeteria-style doctrines and dogmas.
 <br><br>
 
 3. Authorship: The New Testament's most prolific writer had a chronic credibility problem.
-- 
+- The apostle Paul explicitly asserted he would be alive for Jesus' return
+- Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James.
+- Paul publicly confronted Peter in front of the church in Antioch about his stance on eating with Gentiles.
+- **Bottom line:** By the Bible's own definition, a prophet whose prediction fails is a false prophet. Sola Scriptura is therefore compromised by the fact that a large portion of
+the New Testament was written by one — a man who was also in conflict with the
+original apostles throughout his entire ministry.
 
 View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 

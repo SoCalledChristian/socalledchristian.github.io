@@ -12,11 +12,11 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
 
 - Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
   - Jesus called on people who **needed** to repent.
-  - He also explicitly acknowledged the existence of righteous people who **didn't** need to.
+  - He also explicitly acknowledged righteous people who **didn't** need to.
   - Paul barely mentioned repentance in any of his letters.
 
 - Does God actually forgive sins?
-  - Jesus' preached that God's forgiveness of sins is contingent only upon repentance.
+  - Jesus' preached that God's forgiveness is contingent only upon repentance.
   - Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
   - For Paul, if God could simply forgive sins, then Jesus' death was meaningless.
 

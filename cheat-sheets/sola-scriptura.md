@@ -11,12 +11,10 @@ of the church.
 - It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.
 
 Okay, but didn't God intend for all Christians to eventually interpret the Bible by themselves?
-- Complicated and confusing material + personal interpretation = a fractured religion
 - Widespread Bible availability created a new problem: Regular people could suddenly use scripture to
 create their own personal cafeteria-style doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
-
-
+- Complicated and confusing material + personal interpretation = a fractured religion
 
 3. Authorship: The New Testament's most prolific writer had a chronic credibility problem.
 - The apostle Paul explicitly asserted he would be alive for Jesus' return.

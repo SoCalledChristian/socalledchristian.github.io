@@ -10,4 +10,5 @@ Each page linked below contains a brief overview, a one-page PDF cheat sheet, an
 - [<strong>Five Gospels</strong>](/cheat-sheets/five-gospels.html) - the most influential one doesn't even have a formal name<br><br>
 - [<strong>Two Pauls</strong>](/cheat-sheets/two-pauls.html) - can a Paul divided against himself stand?
 
+
 [About this site](/about.html)

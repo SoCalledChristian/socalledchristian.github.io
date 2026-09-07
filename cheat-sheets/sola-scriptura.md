@@ -20,7 +20,7 @@ Well even so, didn't all of the New Testament authors write exactly what God ins
 - Actually, the New Testament's most prolific writer had a chronic credibility problem:
   - The apostle Paul explicitly asserted he would be alive for Jesus' return.
   - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
-  - Paul publicly confronted Peter in front of the church in Antioch about his stance on eating with Gentiles.
+  - Paul boasted about publicly confronting Peter in front of the church in Antioch about his stance on eating with Gentiles.
 
 **Bottom line:** 
 - For the first ~70% of Christian history, Sola Scriptura was impossible.

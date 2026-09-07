@@ -18,7 +18,9 @@ Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
 <br><br>
 
 Does God actually forgive sins?
--  
+- Jesus' preached that God's forgiveness of sins is contingent only upon repentance
+- Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
+- For Paul, if God could simply forgive sins, then Jesus would have died for nothing.
 
 View and (optionally) download the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
 

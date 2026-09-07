@@ -4,9 +4,21 @@ title: Five Gospels
 ---
 
 Did you know the "Gospel of Paul" preceded the other four? Do you know what it really says?
-- Did Paul preach the same gospel as Jesus?<br><br>
-- Did Jesus call *everyone* to repentance? Did Paul call *anyone*?<br><br>
-- Does God actually forgive sins?
+
+Did Paul preach the same gospel as Jesus?
+- Jesus' gospel focused on God's imminent kingdom **on earth**
+- Paul never even mentioned an earthly kingdom
+- In fact, Paul quoted the words of Jesus in only one of his letters
+<br><br>
+
+Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
+- Jesus called on people who **needed** to repent
+- Jesus explicitly acknowledged the existence of regular righteous people who **didn't** need to
+- Paul barely mentioned repentance in any of his letters
+<br><br>
+
+Does God actually forgive sins?
+-  
 
 View and (optionally) download the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
 

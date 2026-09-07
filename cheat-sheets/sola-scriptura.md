@@ -21,7 +21,7 @@ create their own personal cafeteria-style doctrines and dogmas.
 <br><br>
 
 3. Authorship: The New Testament's most prolific writer had a chronic credibility problem.
-- The apostle Paul explicitly asserted he would be alive for Jesus' return
+- The apostle Paul explicitly asserted he would be alive for Jesus' return.
 - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James.
 - Paul publicly confronted Peter in front of the church in Antioch about his stance on eating with Gentiles.
 - **Bottom line:** By the Bible's own definition, a prophet whose prediction fails is a false prophet. Sola Scriptura is therefore compromised by the fact that a large portion of

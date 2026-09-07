@@ -5,7 +5,7 @@ title: Sola Scriptura's Slippery Slope
 
 Did you know the doctrine of Sola Scriptura ("scripture alone") is a relatively recent one?
 
-- Hasn't every Christian always had their own copy of the Bible?
+- What?? Hasn't every Christian always had their own copy of the Bible?
   - The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.
   - It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").

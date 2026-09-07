@@ -13,8 +13,15 @@ of the church because it took several centuries to finalize exactly what would b
 - **Bottom line:** For the first ~70% of Christian history, Sola Scriptura was impossible.
 <br><br>
 
-2. Anarchy: complicated and confusing material + personal interpretation = a fractured religion<br><br>
-3. Authorship: the New Testament's most prolific writer had a chronic credibility problem
+2. Anarchy:
+- Widespread Bible availability created a new problem: Regular people could suddenly use scripture to
+create their own personal cafeteria-style doctrines and dogmas.
+- The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
+- **Bottom line:** Sola Scriptura has caused Christianity to fracture into countless denominations (and sub-denominations), each claiming scriptural authority.
+
+
+4. complicated and confusing material + personal interpretation = a fractured religion<br><br>
+5. Authorship: the New Testament's most prolific writer had a chronic credibility problem
 
 View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 

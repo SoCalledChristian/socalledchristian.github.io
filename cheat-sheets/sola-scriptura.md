@@ -27,7 +27,7 @@ Well even so, didn't all of the New Testament authors write exactly what God ins
 - It has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.
 - A large portion of the New Testament was written by a false prophet (Deut. 18:17-22) – a man who was also in conflict with the original apostles throughout his entire ministry.
 
-View and (optionally) download the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
+See all of the details in the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 
 [![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/sola-scriptura-thumbnail-300px.png)](/assets/pdfs/sola-scriptura.pdf)
 

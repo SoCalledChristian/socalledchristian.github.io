@@ -18,7 +18,7 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
 - Does God actually forgive sins?
   - Jesus' preached that God's forgiveness of sins is contingent only upon repentance
   - Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
-  - For Paul, if God could simply forgive sins, then Jesus would have died for nothing.
+  - For Paul, if God could simply forgive sins, then Jesus' death was meaningless.
 
 **Bottom line:** Paul's gospel virtually ignores what Jesus actually taught.
 

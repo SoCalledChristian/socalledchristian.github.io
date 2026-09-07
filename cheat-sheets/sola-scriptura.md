@@ -3,7 +3,7 @@ layout: page
 title: Sola Scriptura's Slippery Slope
 ---
 
-Do you believe that the Bible is the only essential thing a Christian needs, and it's been that way since the earliest days of the church?
+Is the Bible the only essential thing a Christian needs, and hasn't it been that way since the earliest days of the church?
 
 Hasn't every Christian throughout time had their own copy of the Bible?
 - The Bible as we know it didn't exist until hundreds of years after the birth

@@ -3,14 +3,12 @@ layout: page
 title: Sola Scriptura's Slippery Slope
 ---
 
-Did you know the doctrine of Sola Scriptura ("scripture alone") is a relatively recent one?
-
-- What? Hasn't every Christian always had their own copy of the Bible?
-  - The Bible as we know it didn't exist until hundreds of years after the birth
+Hasn't every Christian always had their own copy of the Bible?
+- The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.
-  - It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").
-  - Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.
-  - It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.
+- It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").
+- Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.
+- It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.
 
 
 2. Anarchy: Complicated and confusing material + personal interpretation = a fractured religion

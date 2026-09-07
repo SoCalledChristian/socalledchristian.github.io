@@ -3,7 +3,7 @@ layout: page
 title: Sola Scriptura's Slippery Slope
 ---
 
-Has Sola Scriptura ("scripture alone") always been the position of the church?
+Did you know the doctrine of Sola Scriptura ("scripture alone") is a relatively recent one?
 
 - Hasn't every Christian always had their own copy of the Bible?
   - The Bible as we know it didn't exist until hundreds of years after the birth

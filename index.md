@@ -9,3 +9,5 @@ Each page linked below contains a brief overview, a one-page PDF cheat sheet, an
 - [<strong>The Paper Pope</strong>](/cheat-sheets/sola-scriptura.html) - the modern and problematic doctrine of Sola Scriptura ("scripture alone")<br><br>
 - [<strong>Five Gospels</strong>](/cheat-sheets/five-gospels.html) - the most influential one doesn't even have a formal name<br><br>
 - [<strong>Two Pauls</strong>](/cheat-sheets/two-pauls.html) - can a Paul divided against himself stand?
+
+[About this site](/about.html)

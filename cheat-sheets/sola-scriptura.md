@@ -5,20 +5,20 @@ title: Sola Scriptura's Slippery Slope
 
 Do you believe that the Bible is the only essential thing a Christian needs, and it's been that way since the earliest days of the church?
 
-Has every Christian throughout time had their own copy of the Bible?
+Hasn't every Christian throughout time had their own copy of the Bible?
 - The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.
 - It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").
 - Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.
 - It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.
 
-Did God intend for all Christians to *eventually* interpret the Bible by themselves?
+Didn't God intend for all Christians to *eventually* interpret the Bible by themselves?
 - Widespread Bible availability created a new problem: Regular people could suddenly use scripture to
 create their own personal doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
 - Complicated and confusing material + personal interpretation = a fractured religion
 
-Did all of the New Testament authors write exactly what God inspired them to?
+Didn't all of the New Testament authors write exactly what God inspired them to?
 - Actually, the New Testament's most prolific writer had a chronic credibility problem:
   - The apostle Paul explicitly asserted he would be alive for Jesus' return.
   - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.

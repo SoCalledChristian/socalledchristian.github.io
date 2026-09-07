@@ -9,17 +9,17 @@ Did Paul preach the same gospel as Jesus?
 - Jesus' gospel focused on God's imminent kingdom **on earth**
 - Paul never even mentioned an earthly kingdom
 - In fact, Paul quoted the words of Jesus in only one of his letters
-<br><br>
+
 Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
 - Jesus called on people who **needed** to repent
 - Jesus explicitly acknowledged the existence of regular righteous people who **didn't** need to
 - Paul barely mentioned repentance in any of his letters
-<br><br>
+
 Does God actually forgive sins?
 - Jesus' preached that God's forgiveness of sins is contingent only upon repentance
 - Paul's gospel was wholly focused on blood atonement **instead of** repentance and forgiveness.
 - For Paul, if God could simply forgive sins, then Jesus would have died for nothing.
-<br><br>
+
 **Bottom line:** Paul's gospel virtually ignores what Jesus actually taught.
 
 View and (optionally) download the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.

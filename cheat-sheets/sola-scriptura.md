@@ -5,7 +5,7 @@ title: Sola Scriptura's Slippery Slope
 
 Do you believe that the Bible is the only essential thing a Christian needs, and it's been that way since the earliest days of the church?
 
-Has every Christian always had their own copy of the Bible?
+Has every Christian throughout time had their own copy of the Bible?
 - The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.
 - It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").

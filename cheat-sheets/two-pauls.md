@@ -9,7 +9,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   - No. Acts presents a lot of material that's nowhere in Paul's letters:
     - Paul's multiple accounts of his conversion
     - His status as a Roman citizen
-    - His pedigree as a student of Gamaliel
+    - His pedigree as a young student of Gamaliel
     - His expert skills as an orator and debater
     - His miraculous powers (healings, exorcisms, raising the dead)
   - Conversely, Paul's letters contain information that sometimes conflicts with Acts:

@@ -19,10 +19,8 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   - In Acts, the controversy was calmly resolved by a council meeting in Jerusalem:
     - James, not Paul, presided over the meeting and issued a decree that Gentiles don't have to be circumcised, but they must abstain from food that was sacrificed to idols and from sexual immorality.
     - Afterward, Paul tells his churches about the decree. 
-  - In Galatians, Paul talked about the same meeting:
-    - He called James, Peter, and the Jerusalem apostles "so-called leaders" who "added nothing" to his message.
-    - He did **not** mention the decree or its food restrictions.
-    - In his later letters he said food sacrificed to idols was a matter of personal conscience.
+  - In Galatians, Paul talked about the same meeting but he did **not** mention the decree or its food restrictions.
+  - In his later letters he said food sacrificed to idols was a matter of personal conscience.
 
 
 **Bottom line:** The Paul of Acts is Luke's creation. The real Paul is hiding in plain sight in his own letters.

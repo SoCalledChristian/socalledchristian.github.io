@@ -28,7 +28,7 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
 
 **Bottom line:** Paul's gospel virtually ignores what Jesus actually taught.
 
-See the details in the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
+See more in the [PDF](/assets/pdfs/five-gospels.pdf), and add your comments below.
 
 [![Five Gospels thumbnail](/assets/thumbnails/five-gospels-thumbnail-300px.png)](/assets/pdfs/five-gospels.pdf)
 

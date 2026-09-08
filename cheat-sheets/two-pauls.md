@@ -15,7 +15,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   - Interestingly, the incident in Antioch is entirely absent from Acts, and there is only one brief mention of Peter in Paul's other letters.
   
 - Did the other apostles look to Paul as their new leader?
-  - No. In fact, Paul's letters describe how he becomes incensed when he found out that other apostles, which he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses.
+  - No. In fact, Paul's letters describe how he became incensed when he found out that other apostles, which he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses.
   - In Acts, the controversy is calmly resolved by a council meeting in Jerusalem. James, not Paul, presides over the meeting and announces his decision that the Gentiles don't have to be circumsised, but they must abstain from food sacrificed to idols and sexual immorality.
 
 **Bottom line:** The Paul of Acts is Luke's creation. The real Paul is hiding in plain sight in his own letters.

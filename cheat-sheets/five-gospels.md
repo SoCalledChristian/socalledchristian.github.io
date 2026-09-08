@@ -12,10 +12,12 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
   <li>In fact, Paul quoted the words of Jesus in only one of his letters.</li>
 </ul>
 
-Did Paul preach the same gospel as Jesus?
-- Jesus' gospel focused on God's imminent kingdom **on earth.**
-- Paul never even mentioned an earthly kingdom.
-- In fact, Paul quoted the words of Jesus in only one of his letters.
+<p style="margin-bottom: 0;">Did Jesus call *everyone* to repentance? Did Paul call *anyone*?</p>
+<ul>
+  <li>Jesus called on people who **needed** to repent.</li>
+  <li>He also explicitly acknowledged ordinary righteous people who **didn't** need to repent.</li>
+  <li>Paul barely mentioned repentance in any of his letters.</li>
+</ul>
 
 Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
 - Jesus called on people who **needed** to repent.

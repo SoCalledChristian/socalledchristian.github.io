@@ -12,10 +12,10 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
   <li>In fact, Paul quoted the words of Jesus in only one of his letters.</li>
 </ul>
 
-<p style="margin-bottom: 0;">Did Jesus call *everyone* to repentance? Did Paul call *anyone*?</p>
+<p style="margin-bottom: 0;">Did Jesus call <em>everyone</em>em> to repentance? Did Paul call <em>anyone</em>em>?</p>
 <ul>
-  <li>Jesus called on people who **needed** to repent.</li>
-  <li>He also explicitly acknowledged ordinary righteous people who **didn't** need to repent.</li>
+  <li>Jesus called on people who <strong>needed</strong>strong> to repent.</li>
+  <li>He also explicitly acknowledged ordinary righteous people who <strong>didn't</strong> need to repent.</li>
   <li>Paul barely mentioned repentance in any of his letters.</li>
 </ul>
 

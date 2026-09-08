@@ -37,7 +37,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 
 <p style="margin-bottom: 0;">Did the other apostles look to Paul as their new leader?</p>
 <ul>
-  <li>Not according to Paul's letters. In them we see he became incensed when he found out that other (unnamed) apostles, whom he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses. Paul was adamant that his Gentile converts would lose their salvation if they placed themselves under the Law.</li>
+  <li>Not according to Paul's letters. In them we see he became incensed when he found out that other (unnamed) apostles, whom he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses. Paul was insistent that his Gentile converts would lose their salvation if they placed themselves under the Law.</li>
   <li>In Acts, this controversy was quickly resolved by a council meeting in Jerusalem:
     <ul>
       <li>James, not Paul, presided over the meeting and issued a decree that Gentiles don't have to be circumcised, but they must abstain from food that was sacrificed to idols and from sexual immorality.</li>

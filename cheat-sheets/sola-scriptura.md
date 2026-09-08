@@ -28,6 +28,7 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
   - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
   - Paul said he publicly confronted Peter in front of the church in Antioch, but also had to admit that even his closest ally Barnabas sided with Peter.
   </ul>
+</li
 </ul>
 **Bottom line:** 
 - For the first ~70% of Christian history, Sola Scriptura was impossible.

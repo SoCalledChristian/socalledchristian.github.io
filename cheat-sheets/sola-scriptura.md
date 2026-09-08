@@ -18,7 +18,7 @@ create their own personal doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
 - Complicated and confusing material + personal interpretation = a fractured religion
 
-Didn't all of the New Testament authors write exactly what God inspired them to?
+But didn't all of the New Testament authors write exactly what God inspired them to?
 - Actually, the New Testament's most prolific writer had a chronic credibility problem:
   - The apostle Paul explicitly asserted he would be alive for Jesus' return.
   - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.

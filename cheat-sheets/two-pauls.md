@@ -22,7 +22,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
     <li>His interactions with the Jersusalem apostles</li> 
     <li>The source and content of his own gospel message</li>
     <li>His dogmatic opposition to the Law of Moses</li>
-    <li>His physical afflictions and "thorn in the flesh"</li>
+    <li>His physical afflictions, including his "thorn in the flesh"</li>
   </ul>
 </li>
 </ul>

@@ -44,7 +44,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
       <li>Afterward, Paul gladly told his churches about the decree.</li>
     </ul>
   </li>
-  <li>In Galatians, Paul talked about the same meeting but he did **not** mention the decree or its food restrictions.</li>
+  <li>In Galatians, Paul talked about the same meeting but he did <strong>not</strong> mention the decree or its food restrictions.</li>
   <li>In his later letters, Paul said food sacrificed to idols was a matter of personal conscience.</li>
 </ul>
 

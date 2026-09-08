@@ -5,7 +5,7 @@ title: The Paper Pope – Behind the Curtain of Sola Scriptura
 
 Chances are you embrace the doctrine of Sola Scriptura ("scripture alone"), even if you've never seen that phrase before. After all, isn't the Bible the only essential thing a Christian needs, and hasn't it been that way since the earliest days of the church?
 
-Hasn't every Christian throughout time had their own copy of the Bible?
+Haven't most Christians throughout time had their own copy of the Bible?
 - The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.
 - It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").

@@ -38,7 +38,7 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
   <li>A large portion of the New Testament was written by a false prophet (according to Deut. 18:17-22) – a man who was also in conflict with the original apostles throughout his entire ministry.</li>
 </ul>
 
-See the details in the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
+See more in the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 
 [![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/sola-scriptura-thumbnail-300px.png)](/assets/pdfs/sola-scriptura.pdf)
 

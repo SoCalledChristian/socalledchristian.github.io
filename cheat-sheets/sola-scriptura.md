@@ -30,7 +30,7 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
   </ul>
 </li>
 </ul>
-**Bottom line:** 
+<p style="margin-bottom: 0;"><strong>Bottom line:</strong></p> 
 - For the first ~70% of Christian history, Sola Scriptura was impossible.
 - It has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.
 - A large portion of the New Testament was written by a false prophet (according to Deut. 18:17-22) – a man who was also in conflict with the original apostles throughout his entire ministry.

@@ -16,7 +16,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   - Conversely, Paul's letters contain information that's missing from or even conflicts with Acts:
     - His apostolic credentials
     - His interactions with the apostles in Jersusalem
-    - The source and content of his core gospel message
+    - The source and content of his own gospel message
     - His physical appearance and afflictions
   
 - How strong was the friendship between Paul and Peter?

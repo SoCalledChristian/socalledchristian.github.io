@@ -7,6 +7,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 
 - Isn't Acts mostly a rehash of Paul's letters?
   - No. Acts presents a lot of material that's nowhere in Paul's letters:
+    - Details about his conversion experience
     - His status as a Roman citizen
     - His pedigree as a young student of Gamaliel
     - His skills as an orator and debater

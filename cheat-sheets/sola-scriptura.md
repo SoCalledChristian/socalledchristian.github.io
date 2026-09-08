@@ -12,8 +12,8 @@ of the church.</li>
   <li>It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").</li>
   <li>Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.</li>
   <li>It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.</li>
-<ul>
-<br>
+</ul>
+
 Even so, didn't God intend for all Christians to *eventually* interpret the Bible by themselves?
 - Widespread Bible availability created a new problem: Ordinary people could suddenly use scripture to
 create their own personal doctrines and dogmas.

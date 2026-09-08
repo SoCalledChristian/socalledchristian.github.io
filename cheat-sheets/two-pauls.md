@@ -12,7 +12,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   - Acts portrays Paul and Peter as the primary apostles who carried a unified gospel message across the Roman Empire. Certainly they *had* to have been lifelong friends, right?
   - 2 Peter 3:14-16 implies Peter's strong approval and support of Paul.
   -  However, Paul told a much different story in his letter to the Galatians. In it he described publicly rebuking Peter "to his face" in front of the church in Antioch about his stance on eating with Gentiles. Paul accused him of being a hypocrite and "self-condemned."
-  -  Interestingly, the incident in Antioch is entirely absent from Acts, and Peter is not mentioned again in any of Paul's other letters.
+  -  Interestingly, the incident in Antioch is entirely absent from Acts, and there is only one brief mention of Peter in Paul's other letters.
   
 - Did the other apostles look to Paul as their new leader?
   - Point 1

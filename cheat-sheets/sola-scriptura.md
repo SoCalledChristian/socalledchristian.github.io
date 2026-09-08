@@ -7,18 +7,18 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
 
 <p style="margin-bottom: 0;">Haven't most Christians throughout time had their own copy of the Bible?</p>
 <ul>
-  <li>The Bible as we know it didn't exist until hundreds of years after the birth
-of the church.</li>
+  <li>The Bible as we know it didn't exist until hundreds of years after the birth of the church.</li>
   <li>It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").</li>
   <li>Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.</li>
-  <li>It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.</li>
+  <li>It would take more than a thousand <strong>additional</strong> years for regular people to obtain a Bible for themselves.</li>
 </ul>
 
-Even so, didn't God intend for all Christians to *eventually* interpret the Bible by themselves?
-- Widespread Bible availability created a new problem: Ordinary people could suddenly use scripture to
-create their own personal doctrines and dogmas.
-- The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
-- Complicated and confusing scriptures + personal interpretation = a fractured religion
+<p style="margin-bottom: 0;">Even so, didn't God intend for all Christians to *eventually* interpret the Bible by themselves?</p>
+<ul>
+<li>Widespread Bible availability created a new problem: Ordinary people could suddenly use scripture to create their own personal doctrines and dogmas.</li>
+<li>The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.</li>
+<li>Complicated and confusing scriptures + personal interpretation = a fractured religion</li>
+</ul>
 
 But didn't all of the New Testament authors write exactly what God inspired them to?
 - Actually, the New Testament's most prolific writer had a chronic credibility problem:

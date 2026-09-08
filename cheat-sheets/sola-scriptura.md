@@ -16,7 +16,7 @@ Even so, didn't God intend for all Christians to *eventually* interpret the Bibl
 - Widespread Bible availability created a new problem: Regular people could suddenly use scripture to
 create their own personal doctrines and dogmas.
 - The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.
-- Complicated and confusing material + personal interpretation = a fractured religion
+- Complicated and confusing scriptures + personal interpretation = a fractured religion
 
 But didn't all of the New Testament authors write exactly what God inspired them to?
 - Actually, the New Testament's most prolific writer had a chronic credibility problem:

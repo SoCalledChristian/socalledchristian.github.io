@@ -48,7 +48,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   <li>In his later letters, Paul said food sacrificed to idols is a matter of personal conscience.</li>
 </ul>
 
-<strong>Bottom line:</strong> The Paul of Acts is Luke's creation. The real Paul is hiding in plain sight in his own letters.
+<strong>Bottom line:</strong> The Paul of Acts is largely Luke's creation. The real Paul is hiding in plain sight in his own letters.
 
 See the details in the [PDF](/assets/pdfs/two-pauls.pdf), and add your comments below.
 

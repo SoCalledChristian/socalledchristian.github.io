@@ -6,7 +6,7 @@ title: One Lord, One Faith, Two Pauls
 Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in the Book of Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
 
 Isn't Acts mostly a rehash of Paul's letters?
-- No. Acts presents a lot of information that's nowhere in Paul's letters:
+- No. Acts presents information that's nowhere in Paul's letters:
   - Details about his conversion experience
   - His legal status as a Roman citizen
   - His pedigree as a student of Gamaliel

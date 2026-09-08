@@ -24,9 +24,9 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
 <ul>
 <li>Actually, the New Testament's most prolific writer had a chronic credibility problem:
   <ul>
-  - The apostle Paul explicitly asserted he would be alive for Jesus' return.
-  - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
-  - Paul said he publicly confronted Peter in front of the church in Antioch, but also had to admit that even his closest ally Barnabas sided with Peter.
+  <li>The apostle Paul explicitly asserted he would be alive for Jesus' return.</li>
+  <li>Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.</li>
+  <li>Paul said he publicly confronted Peter in front of the church in Antioch, but also had to admit that even his closest ally Barnabas sided with Peter.</li>
   </ul>
 </li>
 </ul>

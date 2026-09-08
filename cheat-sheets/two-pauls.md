@@ -15,7 +15,8 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   -  Interestingly, the incident in Antioch is entirely absent from Acts, and there is only one brief mention of Peter in Paul's other letters.
   
 - Did the other apostles look to Paul as their new leader?
-  - Point 1
+  - Acts implies there was cooperation between Paul and the other apostles but doesn't present him as having an elevated status.
+  - Once again, Paul's letters tell a different story. They describe how he becomes incensed when he finds out that other apostles, which he sarcastically calls "super apostles" have been following him around and trying to convince the Gentile members of his churches they must be circumcised and keep the rest of the Law of Moses.
 
 **Bottom line:** The Paul of Acts is Luke's creation. The real Paul is hiding in plain sight in his own letters.
 

@@ -9,7 +9,7 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
 <li>The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.</li>
 <li>It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").</li>
-<li>Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.<li>
+<li>Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.</li>
 <li>It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.</li>
 
 Even so, didn't God intend for all Christians to *eventually* interpret the Bible by themselves?

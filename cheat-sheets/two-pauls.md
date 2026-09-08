@@ -17,7 +17,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
     - The source and content of his core gospel message
     - His status as an official apostle
     - His post-conversion Torah observance
-    - 
+    - The state of his churches
   
 - How strong was the friendship between Paul and Peter?
   - Acts presents Paul and Peter as the primary apostles with parallel ministries who carried a unified gospel message across the Roman Empire.

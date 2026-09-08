@@ -6,10 +6,15 @@ title: One Lord, One Faith, Two Pauls
 Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in the Book of Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
 
 - Isn't Acts mostly a rehash of Paul's letters?
-  - Point 1
+  - No. Acts presents a lot of material that's nowhere in Paul's letters:
+    - Paul's three accounts of his conversion
+    - His status as a Roman citizen
+    - His pedigree as a student of Gamaliel
+    - His expert skills as an orator and debater
+    - His miraculous powers (healings, exorcisms, raising the dead) 
   
 - How strong was the friendship between Paul and Peter?
-  - Acts portrays Paul and Peter as the primary apostles who carried a unified gospel message across the Roman Empire.
+  - Acts presents Paul and Peter as the primary apostles with parallel ministries who carried a unified gospel message across the Roman Empire.
   - The epistle 2 Peter implies Peter's approval and support of Paul.
   - However, in his letter to the Galatians Paul said he publicly rebuked Peter "to his face" in front of the church in Antioch because of his stance on eating with Gentiles. Paul accused him of being a hypocrite and "self-condemned."
   - The incident in Antioch is entirely absent from Acts, and there is only one passing mention of Peter in Paul's other letters.

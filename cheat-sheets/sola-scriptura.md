@@ -13,7 +13,7 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
   <li>It would take more than a thousand <strong>additional</strong> years for regular people to obtain a Bible for themselves.</li>
 </ul>
 
-<p style="margin-bottom: 0;">Even so, didn't God intend for all Christians to *eventually* interpret the Bible by themselves?</p>
+<p style="margin-bottom: 0;">Even so, didn't God intend for all Christians to <i>eventually</i> interpret the Bible by themselves?</p>
 <ul>
 <li>Widespread Bible availability created a new problem: Ordinary people could suddenly use scripture to create their own personal doctrines and dogmas.</li>
 <li>The New Testament does not contain a systematic process for resolving textual disputes; there are no modern apostles, binding councils, courts, or judges.</li>

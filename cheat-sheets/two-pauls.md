@@ -10,7 +10,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   
 - How strong was the friendship between Paul and Peter?
   - Acts portrays Paul and Peter as the primary apostles who carried a unified gospel message across the Roman Empire.
-  - The epistle 2 Peter implies Peter's strong approval and support of Paul.
+  - The epistle 2 Peter implies Peter's approval and support of Paul.
   - In Galatians, Paul said he publicly rebuked Peter "to his face" in front of the church in Antioch about his stance on eating with Gentiles. Paul accused him of being a hypocrite and "self-condemned."
   - Interestingly, the incident in Antioch is entirely absent from Acts, and there is only one brief mention of Peter in Paul's other letters.
   

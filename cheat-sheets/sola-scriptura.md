@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Paper Pope: Behind the Curtain of Sola Scriptura
+title: The Paper Pope – Behind the Curtain of Sola Scriptura
 ---
 
 Is the Bible the only essential thing a Christian needs, and hasn't it been that way since the earliest days of the church?

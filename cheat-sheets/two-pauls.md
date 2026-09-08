@@ -29,11 +29,12 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 
 <p style="margin-bottom: 0;">How strong was the friendship between Paul and Peter?</p>
 <ul>
-- Acts presents Paul and Peter as the primary apostles, with parallel ministries to carry a unified gospel message across the Roman Empire.
-- The epistle Second Peter implies Peter's approval and support of Paul.
-- However, in his letter to the Galatians Paul said he publicly rebuked Peter "to his face" in front of the church in Antioch because of his stance on eating with Gentiles. Paul accused him of being a hypocrite and "self-condemned."
-- The incident in Antioch is entirely absent from Acts, and there is only one passing mention of Peter in Paul's other letters.
+<li>Acts presents Paul and Peter as the primary apostles, with parallel ministries to carry a unified gospel message across the Roman Empire.</li>
+<li>The epistle Second Peter implies Peter's approval and support of Paul.</li>
+<li>However, in his letter to the Galatians Paul said he publicly rebuked Peter "to his face" in front of the church in Antioch because of his stance on eating with Gentiles. Paul accused him of being a hypocrite and "self-condemned."</li>
+<li>The incident in Antioch is entirely absent from Acts, and there is only one passing mention of Peter in Paul's other letters.</li>
 </ul>  
+
 <p style="margin-bottom: 0;">Did the other apostles look to Paul as their new leader?</p>
 - Not according to Paul's letters. In them we see he became incensed when he found out that other (unnamed) apostles, whom he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses.
 <ul>

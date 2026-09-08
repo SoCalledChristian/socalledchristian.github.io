@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge the beliefs you've had since childhood. 
+Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge beliefs you've had since childhood. 
 
 Each page linked below contains an overview, a one-page PDF cheat sheet, and a comments section. 
 

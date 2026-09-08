@@ -13,7 +13,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
     - His expert skills as an orator and debater
     - His miraculous powers (healings, exorcisms, raising the dead)
   - Conversely, Paul's letters contain information that sometimes conflicts with Acts:
-    -  
+    - What happened immediately after his conversion
   
 - How strong was the friendship between Paul and Peter?
   - Acts presents Paul and Peter as the primary apostles with parallel ministries who carried a unified gospel message across the Roman Empire.

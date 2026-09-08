@@ -16,7 +16,10 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   
 - Did the other apostles look to Paul as their new leader?
   - No. In fact, Paul's letters describe how he became incensed when he found out that other apostles, which he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses.
-  - In Acts, the controversy is calmly resolved by a council meeting in Jerusalem. James, not Paul, presides over the meeting and announces his decision that the Gentiles don't have to be circumsised, but they must abstain from food sacrificed to idols and sexual immorality.
+  - In Acts, the controversy is calmly resolved by a council meeting in Jerusalem. James, not Paul, presides over the meeting and issues a decree that Gentiles don't have to be circumsised, but they must abstain from food sacrificed to idols and sexual immorality.
+  - In Galatians, Paul talked about the same meeting but called James, Peter, and the Jerusalem
+apostles "so-called leaders" who "added nothing" to his message. However, he did **not** mention the decree or its food restrictions; in fact, in his later letters he said food sacrificed to idols was a matter of personal conscience.
+
 
 **Bottom line:** The Paul of Acts is Luke's creation. The real Paul is hiding in plain sight in his own letters.
 

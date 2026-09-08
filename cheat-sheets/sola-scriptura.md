@@ -20,12 +20,15 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
 <li>Complicated and confusing scriptures + personal interpretation = a fractured religion</li>
 </ul>
 
-But didn't all of the New Testament authors write exactly what God inspired them to?
-- Actually, the New Testament's most prolific writer had a chronic credibility problem:
+<p style="margin-bottom: 0;">But didn't all of the New Testament authors write exactly what God inspired them to?</p>
+<ul>
+<li>Actually, the New Testament's most prolific writer had a chronic credibility problem:
+  <ul>
   - The apostle Paul explicitly asserted he would be alive for Jesus' return.
   - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
   - Paul said he publicly confronted Peter in front of the church in Antioch, but also had to admit that even his closest ally Barnabas sided with Peter.
-
+  </ul>
+</ul>
 **Bottom line:** 
 - For the first ~70% of Christian history, Sola Scriptura was impossible.
 - It has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.

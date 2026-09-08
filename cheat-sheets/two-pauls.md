@@ -12,11 +12,11 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
     - His pedigree as a young student of Gamaliel
     - His skills as an orator and debater
     - His miraculous powers (healings, exorcisms, raising the dead)
-  - Conversely, Paul's letters contain information that sometimes conflicts with Acts:
-    - Where he lived before his conversion and where he went immediately after it
-    - The source and content of his core gospel message
-    - His status as an official apostle
     - His post-conversion Torah observance
+  - Conversely, Paul's letters contain information that's missing from or even conflicts with Acts:
+    - His official status as an apostle
+    - His interactions with the apostles in Jersusalem
+    - The source and content of his core gospel message
     - His physical appearance and afflictions
   
 - How strong was the friendship between Paul and Peter?

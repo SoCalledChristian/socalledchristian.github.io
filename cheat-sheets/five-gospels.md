@@ -5,10 +5,17 @@ title: Five Gospels
 
 Did you know the "Gospel of Paul" preceded the other four? Do you know what it really says?
 
->Did Paul preach the same gospel as Jesus?
->- Jesus' gospel focused on God's imminent kingdom **on earth.**
->- Paul never even mentioned an earthly kingdom.
->- In fact, Paul quoted the words of Jesus in only one of his letters.
+<p style="margin-bottom: 0;">Did Paul preach the same gospel as Jesus?</p>
+<ul>
+  <li>Jesus' gospel focused on God's imminent kingdom <strong>on earth.</strong></li>
+  <li>Paul never even mentioned an earthly kingdom.</li>
+  <li>In fact, Paul quoted the words of Jesus in only one of his letters.</li>
+</ul>
+
+Did Paul preach the same gospel as Jesus?
+- Jesus' gospel focused on God's imminent kingdom **on earth.**
+- Paul never even mentioned an earthly kingdom.
+- In fact, Paul quoted the words of Jesus in only one of his letters.
 
 Did Jesus call *everyone* to repentance? Did Paul call *anyone*?
 - Jesus called on people who **needed** to repent.

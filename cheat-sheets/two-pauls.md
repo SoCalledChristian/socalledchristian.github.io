@@ -13,7 +13,10 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
     - His expert skills as an orator and debater
     - His miraculous powers (healings, exorcisms, raising the dead)
   - Conversely, Paul's letters contain information that sometimes conflicts with Acts:
-    - What he went immediately after his conversion
+    - Where he lived before his conversion and where he went immediately after it
+    - The source and content of his core gospel message
+    - His status as an official apostle
+    - His post-conversion Torah observance
     - 
   
 - How strong was the friendship between Paul and Peter?

@@ -5,9 +5,16 @@ title: One Lord, One Faith, Two Pauls
 
 Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
 
-- Is Acts mostly a rehash of Paul's letters?<br><br>
-- How strong was the friendship between Paul and Peter?<br><br>
+- Is the book of Acts mostly a rehash of Paul's letters?
+  - Point 1
+  
+- How strong was the friendship between Paul and Peter?
+  - Acts (and Christian lore) portrays Paul and Peter as the primary apostles who carried the gospel message to the ends of the earth. Certainly they *had* to have been lifelong friends, right?
+  - 2 Peter ??:?? implies the same thing
+  -  However, Paul told a much different story in his letter to the Galatians...
+  
 - Did the other apostles look to Paul as their new leader?
+  - Point 1
 
 The answers in this [PDF](/assets/pdfs/two-pauls.pdf) may surprise you. Check it out and add your comments below.
 

@@ -7,19 +7,26 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 
 <p style="margin-bottom: 0;">Isn't Acts mostly a rehash of Paul's letters?</p>
 <ul>
-- No. Acts presents information that's nowhere in Paul's letters:
-  - Details about his conversion experience
-  - His legal status as a Roman citizen
-  - His pedigree as a student of Gamaliel
-  - His skills as an orator and debater
-  - His miraculous powers (healings, exorcisms, raising the dead)
-- Conversely, Paul's letters contain information that's missing from or even conflicts with Acts:
-  - Claims about his apostolic credentials and independence
-  - His interactions with the Jersusalem apostles 
-  - The source and content of his own gospel message
-  - His dogmatic opposition to the Law of Moses
-  - His physical afflictions and "thorn in the flesh"
+<li>No. Acts presents information that's nowhere in Paul's letters:
+  <ul>
+  <li>Details about his conversion experience</li>
+  <li>His legal status as a Roman citizen</li>
+  <li>His pedigree as a student of Gamaliel</li>
+  <li>His skills as an orator and debater</li>
+  <li>His miraculous powers (healings, exorcisms, raising the dead)</li>
+  </ul>
+</li>
+<li>Conversely, Paul's letters contain information that's missing from or even conflicts with Acts:
+  <ul>
+  <li>Claims about his apostolic credentials and independence</li>
+  <li>His interactions with the Jersusalem apostles</li> 
+  <li>The source and content of his own gospel message</li>
+  <li>His dogmatic opposition to the Law of Moses</li>
+  <li>His physical afflictions and "thorn in the flesh"</li>
+  </ul>
+</li>
 </ul>
+
 <p style="margin-bottom: 0;">How strong was the friendship between Paul and Peter?</p>
 <ul>
 - Acts presents Paul and Peter as the primary apostles, with parallel ministries to carry a unified gospel message across the Roman Empire.

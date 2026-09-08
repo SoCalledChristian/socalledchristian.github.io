@@ -6,11 +6,13 @@ title: The Paper Pope – Behind the Curtain of Sola Scriptura
 Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone"), even if you're not familiar with that phrase. After all, isn't the Bible the only essential thing a Christian needs, and hasn't it been that way since the earliest days of the church?
 
 <p style="margin-bottom: 0;">Haven't most Christians throughout time had their own copy of the Bible?</p>
-<li>The Bible as we know it didn't exist until hundreds of years after the birth
+<ul>
+  <li>The Bible as we know it didn't exist until hundreds of years after the birth
 of the church.</li>
-<li>It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").</li>
-<li>Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.</li>
-<li>It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.</li>
+  <li>It took several centuries to finalize exactly what would be included in the New Testament (i.e., its "canon").</li>
+  <li>Even after the New Testament canon was unofficially settled in 367 C.E., every copy of the Bible had to be handwritten, so almost all Bibles were confined to churches and monasteries.</li>
+  <li>It would take more than a thousand *additional* years for regular people to obtain a Bible for themselves.</li>
+<ul>
 <br>
 Even so, didn't God intend for all Christians to *eventually* interpret the Bible by themselves?
 - Widespread Bible availability created a new problem: Ordinary people could suddenly use scripture to

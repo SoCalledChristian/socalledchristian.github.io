@@ -20,14 +20,14 @@ Isn't Acts mostly a rehash of Paul's letters?
   - His physical afflictions and "thorn in the flesh"
   
 How strong was the friendship between Paul and Peter?
-- Acts presents Paul and Peter as the primary apostles with parallel ministries who carried a unified gospel message across the Roman Empire.
-- The epistle 2 Peter implies Peter's approval and support of Paul.
+- Acts presents Paul and Peter as the primary apostles, with parallel ministries to carry a unified gospel message across the Roman Empire.
+- The epistle Second Peter implies Peter's approval and support of Paul.
 - However, in his letter to the Galatians Paul said he publicly rebuked Peter "to his face" in front of the church in Antioch because of his stance on eating with Gentiles. Paul accused him of being a hypocrite and "self-condemned."
 - The incident in Antioch is entirely absent from Acts, and there is only one passing mention of Peter in Paul's other letters.
   
 Did the other apostles look to Paul as their new leader?
 - Not according to Paul's letters. In them we see he became incensed when he found out that other (unnamed) apostles, whom he sarcastically called "super apostles," were following him around and trying to convince his churches that Gentile members must be circumcised and keep the rest of the Law of Moses.
-- In Acts, the controversy was quickly resolved by a council meeting in Jerusalem:
+- In Acts, this controversy was quickly resolved by a council meeting in Jerusalem:
   - James, not Paul, presided over the meeting and issued a decree that Gentiles don't have to be circumcised, but they must abstain from food that was sacrificed to idols and from sexual immorality.
   - Afterward, Paul gladly told his churches about the decree. 
 - In Galatians, Paul talked about the same meeting but he did **not** mention the decree or its food restrictions.

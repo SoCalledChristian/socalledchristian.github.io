@@ -7,17 +7,16 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 
 - Isn't Acts mostly a rehash of Paul's letters?
   - No. Acts presents a lot of material that's nowhere in Paul's letters:
-    - The multiple accounts of his conversion experience
     - His status as a Roman citizen
     - His pedigree as a young student of Gamaliel
     - His skills as an orator and debater
     - His miraculous powers (healings, exorcisms, raising the dead)
-    - His post-conversion Torah observance
   - Conversely, Paul's letters contain information that's missing from or even conflicts with Acts:
     - His apostolic credentials
     - His interactions with the Jersusalem apostles 
     - The source and content of his own gospel message
-    - His physical appearance and afflictions
+    - His dogmatic opposition to the Law
+    - His physical appearance and afflictions 
   
 - How strong was the friendship between Paul and Peter?
   - Acts presents Paul and Peter as the primary apostles with parallel ministries who carried a unified gospel message across the Roman Empire.

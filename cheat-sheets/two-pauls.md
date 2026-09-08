@@ -10,7 +10,7 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
   
 - How strong was the friendship between Paul and Peter?
   - Acts (and Christian lore) portrays Paul and Peter as the primary apostles who carried the gospel message to the ends of the earth. Certainly they *had* to have been lifelong friends, right?
-  - 2 Peter ??:?? implies the same thing
+  - 2 Peter 3:14-16 implies the same thing
   -  However, Paul told a much different story in his letter to the Galatians...
   
 - Did the other apostles look to Paul as their new leader?

@@ -22,7 +22,7 @@ But didn't all of the New Testament authors write exactly what God inspired them
 - Actually, the New Testament's most prolific writer had a chronic credibility problem:
   - The apostle Paul explicitly asserted he would be alive for Jesus' return.
   - Paul's radical doctrine of "righteousness by faith alone" was directly refuted by James, Jesus' own brother and the leader of the original church in Jerusalem.
-  - Paul said he publicly confronted Peter in front of the church in Antioch — but had to admit that even his closest ally Barnabas sided with Peter.
+  - Paul said he publicly confronted Peter in front of the church in Antioch, but also had to admit that even his closest ally Barnabas sided with Peter.
 
 **Bottom line:** 
 - For the first ~70% of Christian history, Sola Scriptura was impossible.

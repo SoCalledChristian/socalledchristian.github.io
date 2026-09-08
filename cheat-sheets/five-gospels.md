@@ -23,7 +23,7 @@ Did you know the "Gospel of Paul" preceded the other four? Do you know what it r
 <ul>
   <li>Jesus' preached that God's forgiveness is contingent only upon repentance.</li>
   <li>Paul's gospel was entirely focused on blood atonement <strong>instead of</strong> repentance and forgiveness.</li>
-  <li>PFor Paul, if God could simply forgive sins, then Jesus' death was meaningless.</li>
+  <li>For Paul, if God could simply forgive sins, then Jesus' death was meaningless.</li>
 </ul>
 
 **Bottom line:** Paul's gospel virtually ignores what Jesus actually taught.

@@ -11,7 +11,9 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
     - His status as a Roman citizen
     - His pedigree as a student of Gamaliel
     - His expert skills as an orator and debater
-    - His miraculous powers (healings, exorcisms, raising the dead) 
+    - His miraculous powers (healings, exorcisms, raising the dead)
+  - Conversely, Paul's letters contain information that sometimes conflicts with Acts:
+    -  
   
 - How strong was the friendship between Paul and Peter?
   - Acts presents Paul and Peter as the primary apostles with parallel ministries who carried a unified gospel message across the Roman Empire.

@@ -19,9 +19,9 @@ Who's your favorite apostle? If you said Paul, then *which* Paul is your favorit
 <li>Conversely, Paul's letters contain information that's missing from or even conflicts with Acts:
   <ul>
     <li>Claims about his apostolic credentials and independence</li>
-    <li>His interactions with the Jersusalem apostles</li> 
+    <li>His interactions with the Jerusalem apostles</li> 
     <li>The source and content of his own gospel message</li>
-    <li>His dogmatic opposition to the Law of Moses</li>
+    <li>His fierce opposition to the Law of Moses</li>
     <li>His physical afflictions, including his "thorn in the flesh"</li>
   </ul>
 </li>

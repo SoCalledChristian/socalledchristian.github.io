@@ -5,3 +5,8 @@ header_pages: []
 plugins:
   - jekyll-sitemap
 url: "https://socalledchristian.com"
+defaults:
+  - scope:
+      path: "assets/pdfs/**/*.pdf"
+    values:
+      sitemap: false

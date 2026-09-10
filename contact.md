@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contact Us
+---
+
 <form action="https://formspree.io/f/mbgjwgka" method="POST" class="contact-form">
   <div class="form-group">
     <label for="user-name">Your Name:</label>

@@ -42,4 +42,4 @@ See more in the [PDF](/assets/pdfs/paper-pope.pdf), and add your comments below.
 
 [![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/paper-pope-thumbnail-300px.png)](/assets/pdfs/paper-pope.pdf)
 
-**Note:** Posting a comment requires a free account on our hosting service, GitHub.com. It's a safe, well-known website owned by Microsoft, and you can sign up instantly using your existing Google or Apple account.
+<strong>Note:</strong> Posting a comment requires a free account on our hosting service, GitHub.com. It's a safe, well-known website owned by Microsoft, and you can sign up instantly using your existing Google or Apple account.

@@ -40,6 +40,6 @@ Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone")
 
 See more in the [PDF](/assets/pdfs/sola-scriptura.pdf), and add your comments below.
 
-[![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/sola-scriptura-thumbnail-300px.png)](/assets/pdfs/sola-scriptura.pdf)
+[![Three Arguments Against Sola Scriptura thumbnail](/assets/thumbnails/paper-pope-thumbnail-300px.png)](/assets/pdfs/peper-pope.pdf)
 
 <strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. You can sign up instantly using your existing Google or Apple account.

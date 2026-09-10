@@ -2,7 +2,7 @@
 layout: page
 title: Your Privacy Matters
 ---
-I hate spam and bots as much as you do. Your email address is 100% safe with me. I will never sell, lease, or disclose it to anyone, and it will only be used to reply to your message.
+I hate spam and bots as much as you do, so your email address is 100% safe with me. I will never sell, lease, or disclose it to anyone, and it will only be used to reply to your message.
 
 <form action="https://formspree.io/f/mbgjwgka" method="POST" class="contact-form">
   <div class="form-group">

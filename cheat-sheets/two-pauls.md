@@ -54,4 +54,4 @@ See more in the [PDF](/assets/pdfs/two-pauls.pdf), and add your comments below.
 
 [![Two Pauls thumbnail](/assets/thumbnails/two-pauls-thumbnail-300px.png)](/assets/pdfs/two-pauls.pdf)
 
-<strong>Note</strong>: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. You can sign up instantly using your existing Google or Apple account.
+<strong>Note:</strong> Posting a comment requires a free account on our hosting service, GitHub.com. It's a safe, well-known website owned by Microsoft, and you can sign up instantly using your existing Google or Apple account.

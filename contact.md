@@ -1,4 +1,4 @@
-<form action="[https://formspree.io](https://formspree.io/f/mbgjwgka)" method="POST" class="contact-form">
+<form action="https://formspree.io/f/mbgjwgka" method="POST" class="contact-form">
   <div class="form-group">
     <label for="user-name">Your Name:</label>
     <input type="text" id="user-name" name="name" required placeholder="Jane Doe">

@@ -9,4 +9,4 @@ The goal is simple: to present concise reference material on topics that most ch
 
 No pressure. No persuasion. No ads. No agenda beyond open-minded inquiry and exploration.  
 
-Note: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. You can sign up instantly using your existing Google or Apple account.
+**Note:** Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. You can sign up instantly using your existing Google or Apple account.

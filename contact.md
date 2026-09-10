@@ -2,7 +2,7 @@
 layout: page
 title: Your Privacy Matters
 ---
-We hate spam and bots as much as you do, so your email address is 100% safe with us. We will never sell, lease, or disclose it to anyone, and it will only be used to reply to your message.
+We hate spam and bots as much as you do, so your email address is 100% safe with us. We do not use tracking cookies, we will never sell or rent your data to anyone, and we will only use your email address to reply to your message.
 
 <form action="https://formspree.io/f/mbgjwgka" method="POST" class="contact-form">
   <div class="form-group">
@@ -22,6 +22,9 @@ We hate spam and bots as much as you do, so your email address is 100% safe with
 
   <!-- Customizing the Formspree subject line in your inbox -->
   <input type="hidden" name="_subject" value="New Contact Form Submission!">
+
+  <!-- Invisible honeypot to trap bots -->
+  <input type="text" name="_gotcha" style="display:none" />
 
   <button type="submit">Send Message</button>
 </form>

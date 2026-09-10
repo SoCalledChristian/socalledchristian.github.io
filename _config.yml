@@ -4,3 +4,4 @@ theme: minima
 header_pages: []
 plugins:
   - jekyll-sitemap
+url: "https://socalledchristian.com"

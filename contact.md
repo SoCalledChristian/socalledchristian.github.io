@@ -11,7 +11,7 @@
 
   <div class="form-group">
     <label for="user-message">Your Message:</label>
-    <textarea id="user-message" name="message" rows="5" required placeholder="How can I help you?"></textarea>
+    <textarea id="user-message" name="message" rows="5" required placeholder="Enter your message here..."></textarea>
   </div>
 
   <!-- Customizing the Formspree subject line in your inbox -->

@@ -8,3 +8,5 @@ So-Called Christian was created by a lifelong follower of Jesus with decades of 
 The goal is simple: to present concise reference material on topics that most churchgoers were never taught, and to create a safe space where those topics can be discussed without judgment.
 
 No pressure. No persuasion. No ads. No agenda beyond open-minded inquiry and exploration.  
+
+Note: Posting a comment requires a free account on GitHub.com – a safe, well-known website owned by Microsoft. You can sign up instantly using your existing Google or Apple account.

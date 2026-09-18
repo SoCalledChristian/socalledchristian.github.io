@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Your Privacy Matters
-robots: noindex
 ---
+
+<meta name="robots" content="noindex">
+
 We hate spam and bots as much as you do, so your email address is 100% safe with us. We do not use tracking cookies, we will never sell or rent your data to anyone, and we will only use your email address to reply to your message.
 
 <form action="https://formspree.io/f/mbgjwgka" method="POST" class="contact-form">

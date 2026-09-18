@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Your Privacy Matters
+sitemap: false
 ---
 
 <meta name="robots" content="noindex">

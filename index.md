@@ -1,5 +1,6 @@
 ---
 layout: home
+canonical_url: https://socalledchristian.com
 ---
 
 Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge beliefs you've had since childhood. 

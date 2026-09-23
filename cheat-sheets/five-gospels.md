@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Five Gospels
-permalink: /five-gospels
+permalink: /cheat-sheets/five-gospels
 redirect_from:
-  - /five-gospels.html
+  - /cheat-sheets/five-gospels.html
 ---
 
 Did you know the "Gospel of Paul" preceded the other four? Do you know what it really says?

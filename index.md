@@ -14,4 +14,4 @@ Each page linked below contains an overview, a one-page PDF cheat sheet, and a c
 ### About the Project
 This platform was built by a lifelong follower of Jesus drawing from decades of dedicated research into New Testament scholarship and early church history. 
 
-Many of the structural and historical concepts surrounding modern Christianity are rarely discussed in everyday church settings. The mission here is to break down those complex academic topics into digestible, single-page formats. This is an entirely independent, ad-free space designed for open-minded inquiry, honest questions, and historical exploration.
+Many of the structural and historical concepts surrounding modern Christianity are rarely discussed in everyday church settings. The mission here is to break down those complex academic topics into digestible, single-page formats. This is an entirely independent, ad-free space designed for textual and historical exploration, open-minded inquiry, and tough questions. 

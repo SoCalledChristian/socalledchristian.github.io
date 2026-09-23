@@ -2,8 +2,6 @@
 layout: page
 title: About
 permalink: /about
-redirect_from:
-  - /about.html
 ---
 
 So-Called Christian was created by a lifelong follower of Jesus with decades of personal study in New Testament scholarship and church history.

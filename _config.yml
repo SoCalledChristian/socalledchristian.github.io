@@ -4,6 +4,7 @@ theme: minima
 header_pages: []
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 url: "https://socalledchristian.com"
 permalink: /:basename
 defaults:

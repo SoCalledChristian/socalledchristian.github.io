@@ -12,6 +12,6 @@ The goal is simple: to present concise reference material on topics that most ch
 
 No pressure. No persuasion. No ads. No agenda beyond open-minded inquiry and exploration.  
 
-Back to the [home page](/index.md)
+Back to the [home page](/socalledchristian.com)
 
 **Note:** Posting a comment requires a free account on our hosting service, GitHub.com. It's a safe, well-known website owned by Microsoft, and you can sign up instantly using your existing Google or Apple account.

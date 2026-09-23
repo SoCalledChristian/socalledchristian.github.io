@@ -1,6 +1,9 @@
 ---
 layout: home
 canonical_url: https://socalledchristian.com
+permalink: /socalledchristian
+redirect_from:
+  - /socalledchristian.html
 ---
 
 Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge beliefs you've had since childhood. 

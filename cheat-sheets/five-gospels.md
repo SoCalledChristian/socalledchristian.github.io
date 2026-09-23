@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Five Gospels
+permalink: /five-gospels
+redirect_from:
+  - /five-gospels.html
 ---
 
 Did you know the "Gospel of Paul" preceded the other four? Do you know what it really says?

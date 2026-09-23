@@ -1,9 +1,9 @@
 ---
 layout: page
 title: One Lord, One Faith, Two Pauls
-permalink: /two-pauls
+permalink: /cheat-sheets/two-pauls
 redirect_from:
-  - /two-pauls.html
+  - /cheat-sheets/two-pauls.html
 ---
 
 Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in Acts of the Apostles, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:

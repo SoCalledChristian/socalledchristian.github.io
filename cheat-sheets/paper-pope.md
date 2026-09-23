@@ -1,9 +1,9 @@
 ---
 layout: page
 title: The Paper Pope
-permalink: /paper-pope
+permalink: /cheat-sheets/paper-pope
 redirect_from:
-  - /paper-pope.html
+  - /cheat-sheets/paper-pope.html
 ---
 
 Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone"), even if you're not familiar with that phrase. After all, isn't the Bible the only essential thing a Christian needs, and hasn't it been that way since the earliest days of the church?

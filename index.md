@@ -10,7 +10,7 @@ Each page linked below contains an overview, a one-page PDF cheat sheet, and a c
 - [<strong>Five Gospels</strong>](/cheat-sheets/five-gospels) - the most influential one doesn't even have a formal name<br><br>
 - [<strong>One Lord, One Faith, Two Pauls</strong>](/cheat-sheets/two-pauls) - can a Paul divided against himself stand?
 
-<br><br>
+<br>
 ### About the Project
 This platform was built by a lifelong follower of Jesus drawing from decades of dedicated research into New Testament scholarship and early church history. 
 

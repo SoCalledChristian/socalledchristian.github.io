@@ -1,7 +1,6 @@
 ---
 layout: home
 canonical_url: https://socalledchristian.com
-permalink: /
 redirect_from:
   - /index.html
 ---

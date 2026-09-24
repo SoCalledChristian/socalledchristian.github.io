@@ -3,11 +3,9 @@ layout: home
 canonical_url: https://socalledchristian.com/
 ---
 
-Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge beliefs you've had since childhood. 
+Welcome to So-Called Christian, where we present concise *unorthodox* material about a variety of biblical and church history topics that may challenge beliefs you've had since childhood. This is an independent, ad-free space designed for textual and historical exploration, open-minded inquiry, and tough questions. 
 
-This platform was built by a lifelong follower of Jesus drawing from decades of dedicated research into New Testament scholarship and early church history. Many doctrinal and historical concepts surrounding modern Christianity are rarely discussed in everyday church settings, and that's by design. Church leaders usually prefer to avoid or gloss over most of these topics because they expose uncomfortable truths.
-
-The mission here is to break down those topics into objective, single-page formats. This is an entirely independent, ad-free space designed for textual and historical exploration, open-minded inquiry, and tough questions. 
+Many doctrinal and historical concepts surrounding modern Christianity are rarely discussed in everyday church settings, and that's by design. Church leaders usually prefer to avoid or gloss over most of these topics because they expose uncomfortable truths. The mission here is to break down those topics into an objective, easily digestible format. 
 
 Each page linked below contains an overview, a one-page PDF cheat sheet, and a comments section. 
 - [<strong>The Paper Pope</strong>](/cheat-sheets/paper-pope) - the modern and questionable doctrine of Sola Scriptura ("scripture alone")<br><br>

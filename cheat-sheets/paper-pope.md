@@ -4,7 +4,7 @@ title: The Paper Pope
 permalink: /cheat-sheets/paper-pope
 ---
 
-Sola scriptura is the Protestant doctrine that scripture alone is the authority for Christian faith and practice. Catholics, though, reject sola scriptura because they regard scripture, tradition, and the teaching authority of the Church (i.e., Magisterium) as co-authoritative. But is sola scriptura actually supported by the Bible? Ton answer that we need to first step back and consider a few other ones:
+Sola scriptura is the Protestant doctrine that scripture alone is the authority for Christian faith and practice. Catholics, though, reject sola scriptura because they regard scripture, tradition, and the teaching authority of the Church (i.e., Magisterium) as co-authoritative. But is sola scriptura actually supported by the Bible? To answer that we need to first step back and consider a few other ones:
 
 <p style="margin-bottom: 0;">Haven't most Christians throughout time had their own copy of the Bible?</p>
 <ul>

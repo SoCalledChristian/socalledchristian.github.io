@@ -4,7 +4,7 @@ title: The Paper Pope
 permalink: /cheat-sheets/paper-pope
 ---
 
-Chances are you embrace the doctrine of Sola Scriptura (i.e., "scripture alone"), even if you're not familiar with that phrase. After all, isn't the Bible the only essential thing a Christian needs, and hasn't it been that way since the earliest days of the church?
+Sola scriptura is the Protestant doctrine that scripture alone is the authority for Christian faith and practice. Catholics, though, reject sola scriptura because they regard scripture, tradition, and the teaching authority of the Church (i.e., Magisterium) as co-authoritative. But is sola scriptura actually supported by the Bible? Ton answer that we need to first step back and consider a few other ones:
 
 <p style="margin-bottom: 0;">Haven't most Christians throughout time had their own copy of the Bible?</p>
 <ul>

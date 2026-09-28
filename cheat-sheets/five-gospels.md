@@ -10,7 +10,7 @@ Did you know the apostle Paul had his own gospel message, and it actually preced
 <ul>
   <li>Jesus' gospel focused on God's imminent kingdom <i>on earth</i> and how to prepare for it.</li>
   <li>Paul never even mentioned an earthly kingdom. His focus was entirely on the spiritual realm.</li>
-  <li>Jesus' gospel message told people what they must <i>do</i>; Paul's told people what they must  <i>believe</i>.</li>
+  <li>Jesus' gospel told people what they must <i>do</i>; Paul's told people only what they must  <i>believe</i>.</li>
   <li>In fact, Paul quoted the words of Jesus in only one of his letters.</li>
 </ul>
 

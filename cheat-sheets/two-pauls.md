@@ -4,7 +4,7 @@ title: One Lord, One Faith, Two Pauls
 permalink: /cheat-sheets/two-pauls
 ---
 
-Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in Acts of the Apostles, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
+Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in the book of Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
 
 <p style="margin-bottom: 0;">Is Acts mostly a rehash of Paul's letters?</p>
 <ul>

@@ -6,7 +6,7 @@ permalink: /cheat-sheets/five-gospels
 
 Did you know the "Gospel of Paul" preceded the other four? Do you know what it really says?
 
-<p style="margin-bottom: 0;">Did Paul preach the same gospel as Jesus?</p>
+<p style="margin-bottom: 0;">The difference between Jesus' gospel and Paul's gospel is striking:</p>
 <ul>
   <li>Jesus' gospel focused on God's imminent kingdom <i>on earth.</i></li>
   <li>Paul never even mentioned an earthly kingdom.</li>

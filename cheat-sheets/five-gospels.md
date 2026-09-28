@@ -23,7 +23,7 @@ Did you know the apostle Paul had his own gospel message, and it actually preced
 
 <p style="margin-bottom: 0;">Does God forgive sins?</p>
 <ul>
-  <li>Jesus' preached that God's forgiveness is contingent only upon repentance.</li>
+  <li>Jesus' preached that God's forgiveness is contingent only upon sincere repentance.</li>
   <li>Paul's gospel was entirely focused on blood atonement <i>instead of</i> repentance and forgiveness.</li>
   <li>For Paul, if God could simply forgive sins, then Jesus' death was meaningless.</li>
 </ul>

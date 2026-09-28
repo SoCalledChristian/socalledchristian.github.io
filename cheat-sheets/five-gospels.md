@@ -16,7 +16,7 @@ Did you know the apostle Paul had his own gospel message, and it actually preced
 
 <p style="margin-bottom: 0;">Did Jesus call <i>everyone</i> to repentance? Did Paul call <i>anyone</i>?</p>
 <ul>
-  <li>Jesus called on people who <i>needed</i> to repent.</li>
+  <li>Jesus said he was calling on people who <i>needed</i> to repent.</li>
   <li>He also explicitly acknowledged ordinary righteous people who <i>didn't</i> need to repent.</li>
   <li>Paul barely mentioned repentance in any of his letters.</li>
 </ul>

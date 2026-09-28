@@ -4,7 +4,7 @@ title: Five Gospels
 permalink: /cheat-sheets/five-gospels
 ---
 
-Did you know the apostle Paul had his own gospel message, and it actually preceded the other four? Many times in his letters he uses the phrase "my gospel" or "our gospel" (Rom 2:16 and 16:25, Gal 1:11, 1 Thes 1:5, 2 Cor 4:3) and he also acknowledges that his gospel wasn't the only one (Gal 1:6-9, 2 Cor 11:4).
+Did you know the apostle Paul had his own gospel message, and it actually preceded the other four? Many times in his letters he used the phrase "my gospel" or "our gospel" (Rom 2:16 and 16:25, Gal 1:11, 1 Thes 1:5, 2 Cor 4:3) and he also acknowledged that his gospel wasn't the only one (Gal 1:6-9, 2 Cor 11:4).
 
 <p style="margin-bottom: 0;">What is the difference between Jesus' gospel and Paul's gospel? Does Paul's gospel contradict Jesus?</p>
 <ul>

@@ -13,7 +13,7 @@ Mark was the first gospel written, but very few people realize that. After all, 
 <li>Paul is the only New Testament figure who scholars believe wrote most of the letters that claim he's the author. Some of "his" letters may be forgeries, but explaining that is beyond the scope of this topic.</li>
 </ul>
 
-<p style="margin-bottom: 0;">Why is Matthew presented as the first gospel in the Bible?</p>
+<p style="margin-bottom: 0;">Why is Matthew the first book in the New Testament?</p>
 <ul>
   <li>The early church fathers believed the Gospel of Matthew was the earliest one, so most Bibles throughout time have held to that tradition.</li>
   <li>Most scholars date the Gospel of Mark around the year 70.</li>

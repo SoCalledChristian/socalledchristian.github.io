@@ -10,7 +10,7 @@ Mark was the first gospel written. Very few people realize that. After all, it d
 <ul>
   <li>All of the gospels, including Mark, were actually written anonymously. None of them claim in the text to have been written by a specific named person.</li>
   <li>As the gospels began circulating as a group in the second century, the early church fathers eventually assigned names to each of them, mainly for the purpose of differentiation.</li>
-<li>Paul is the only New Testament author who explicitly identifies himself in the text.</li>
+<li>According to scholars. Paul is the only New Testament author who explicitly id.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Why is Matthew presented as the first gospel in the Bible?</p>

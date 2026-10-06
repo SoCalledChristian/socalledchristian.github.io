@@ -30,9 +30,9 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
 
 <p style="margin-bottom: 0;">Despite the order of the gospels in the New Testament, Mark was actually the first one written. The vast majority of scholars think it predates the other gospels by at least ten years.</p>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Most scholars date it around the year 70</li>
+  <li>Matthew and Luke were probably written between the years 80 and 90</li>
+  <li>John was probably in the 90s or a little later</li>
   <li></li>
 </ul>  
 

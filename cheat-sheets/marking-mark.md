@@ -10,7 +10,7 @@ Mark was the first gospel written, but very few people realize that. After all, 
 <ul>
   <li>All of the gospels, including Mark, were actually written anonymously. None of them claim in their text to have been written by a specific named person.</li>
   <li>As the gospels began circulating as a group in the second century, the early church fathers eventually assigned names to each of them, mainly for the purpose of differentiation.</li>
-<li>Paul is the only New Testament figure who scholars believe wrote most of the letters that are attributed to him. Some of "his" letters may be forgeries, but explaining that is beyond the scope of this topic.</li>
+<li>Paul is the only New Testament figure who scholars believe wrote the letters that are attributed to him. Some of "his" letters may be forgeries, but explaining that is beyond the scope of this topic.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Why is Matthew the first book in the New Testament?</p>

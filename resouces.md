@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Resouces
+title: Resources
 permalink: /resources
 ---
-Resouces 
 - [<strong>New Testament Canon Matrix</strong>](/assets/html/nt-canon-matrix.html)<br><br>
 

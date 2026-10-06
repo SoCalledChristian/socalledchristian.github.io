@@ -8,21 +8,21 @@ Mark was the first gospel written. Very few people realize that. After all, it d
 
 <p style="margin-bottom: 0;">Doesn't the New Testament show Matthew's gospel was the first one?</p>
 <ul>
-  <li>Despite the order of the gospels in the New Testament, Mark was actually the first one written; most scholars date it around the year 70</li>
-  <li>Matthew and Luke were probably written between the years 80 and 90</li>
-  <li>John was probably in the 90s or a little later</li>
+  <li>Despite the order of the gospels in the New Testament, Mark was actually the first one written; most scholars date it around the year 70.</li>
+  <li>Matthew and Luke were probably written between the years 80 and 90.</li>
+  <li>John was probably written in the 90s or a little later.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Did Matthew or Luke use Mark's gospel as a source?</p>
 <ul>
-<li>80-90% of Mark's gospel is the Gospel of Matthew</li>
-<li>50-60% of Mark's material is the Gospel of Luke</li>
+<li>80-90% of Mark's gospel is the Gospel of Matthew.</li>
+<li>50-60% of Mark's material is the Gospel of Luke.</li>
 <li>In both Matthew and Luke, material from Mark often appears word-for-word, and sometimes even entire paragraphs are the same.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Does the order or age of the gospels even matter?</p>
 <ul>
-  <li>Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed</li>
+  <li>Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed.</li>
   <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
   <li>Matthew and Luke's birth stories introduce Jesus' divinity and remove most of his limitations.</li>
   <li>In John's gospel, Jesus seems barely human. He has no limitations, and he's continuously stoic and resolute, especially in the face of death.</li>

@@ -32,7 +32,7 @@ Mark was the first gospel written, but very few people realize that. After all, 
 <ul>
   <li>Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed.</li>
   <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
-  <li>Matthew and Luke's introduce Jesus' divinity through their birth stories and also remove most of his limitations.</li>
+  <li>Matthew and Luke introduce Jesus' divinity through their birth stories and also remove most of his limitations.</li>
   <li>In John's gospel, Jesus seems barely human. He has no limitations, and he's continuously stoic and resolute, especially in the face of death.</li>
 </ul>
 

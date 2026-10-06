@@ -15,28 +15,10 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
 
 <p style="margin-bottom: 0;">Mark's gospel was clearly a source for both Matthew and Luke:</p>
 <ul>
-<li>80-90% of Mark's gospel is the Gospel of Matthew
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
-</li>
-<li>50-60% of Mark's material is the Gospel of Luke
-  <ul>
-    <li></li>
-    <li></li> 
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
-</li>
+<li>80-90% of Mark's gospel is the Gospel of Matthew</li>
+<li>50-60% of Mark's material is the Gospel of Luke</li>
 <li>In both Matthew and Luke, material from Mark often appears word-for-word, and sometimes even entire paragraphs are the same.</li>
 </ul>
-
-  
 
 <p style="margin-bottom: 0;">Question/Point 3</p>
 <ul>

@@ -4,13 +4,13 @@ title: Marking-Up Mark
 permalink: /cheat-sheets/marking-mark
 ---
 
-Mark was the first gospel written. Very few people realize that. After all, it doesn't have the birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances. How could it possibly be the oldest one? Here we'll show that Mark was not only the first, it's actually the cornerstone of the entire gospel tradition.
+Mark was the first gospel written. Very few people realize that. After all, it doesn't have the birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances. So how could it possibly be the oldest one? Here we'll show that Mark was not only the first, it's actually the cornerstone of the entire gospel tradition.
 
 <p style="margin-bottom: 0;">Did Mark actually write the Gospel of Mark?</p>
 <ul>
   <li>All of the gospels, including Mark, were actually written anonymously. None of them claim in the text to have been written by a specific named person.</li>
   <li>As the gospels began circulating as a group in the second century, the early church fathers eventually assigned names to each of them, mainly for the purpose of differentiation.</li>
-<li>According to scholars. Paul is the only New Testament author who explicitly id.</li>
+<li>Paul is the only New Testament figure who scholars believe wrote most of the letters that claim he's the author. Some of "his" letters may be forgeries, but explaining that is beyond the scope of this topic.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Why is Matthew presented as the first gospel in the Bible?</p>

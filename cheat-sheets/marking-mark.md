@@ -13,7 +13,7 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
   <li>John was probably in the 90s or a little later</li>
 </ul>
 
-<p style="margin-bottom: 0;">Mark's gospel was a source for both Matthew and Luke:</p>
+<p style="margin-bottom: 0;">Mark's gospel was clearly a source for both Matthew and Luke:</p>
 <ul>
 <li>80-90% of Mark's gospel is the Gospel of Matthew, often word-for-word
   <ul>

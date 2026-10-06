@@ -27,7 +27,7 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
   <li>In John's gospel, Jesus seems barely human. He has no limitations, and he's continuously stoic and resolute, especially in the face of death.</li>
 </ul>
 
-<strong>Bottom line:</strong> 
+<strong>Bottom line:</strong> Reading the gospels in chronological order shows how they transformed Jesus from a man into God.
 
 See more in the [PDF](/assets/pdfs/marking-mark.pdf), and add your comments below.
 

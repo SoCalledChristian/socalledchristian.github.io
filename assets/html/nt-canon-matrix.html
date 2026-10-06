@@ -1,1 +1,174 @@
-aaa
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>New Testament Canon Matrix</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, Segoe UI, Arial, sans-serif;
+    background: #f7f2e8;
+    color: #1a1410;
+    padding: 20px;
+    font-size: 13px;
+  }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  p.sub { color: #6b5c48; margin-bottom: 16px; font-size: 13px; }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-bottom: 14px;
+    font-size: 12px;
+  }
+  .legend span.swatch {
+    display: inline-block;
+    width: 10px; height: 10px;
+    margin-right: 4px;
+    vertical-align: middle;
+    border-radius: 2px;
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+    border: 1px solid #c9b99a;
+    max-width: 100%;
+  }
+
+  table {
+    border-collapse: collapse;
+    font-size: 11px;
+    width: max-content;
+  }
+
+  th, td {
+    border: 1px solid #e0d4be;
+    padding: 4px 6px;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  /* sticky first column (book names) */
+  th.book, th.corner {
+    position: sticky;
+    left: 0;
+    background: #ede6d8;
+    text-align: left;
+    z-index: 2;
+  }
+  th.corner { z-index: 3; }
+
+  tr.group-row th.group {
+    background: #1c1814;
+    color: #f0e6d0;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 6px;
+  }
+  tr.group-row th.citations { background: #5c3d1e; }
+  tr.group-row th.canons { background: #1e3d6b; }
+
+  tr.date-row th.date {
+    font-style: italic;
+    color: #6b5c48;
+    font-weight: 400;
+    background: #f5f0e8;
+  }
+
+  tr.name-row th.name {
+    background: #ede6d8;
+    font-size: 10.5px;
+  }
+
+  th.book { font-weight: 600; min-width: 170px; }
+
+  tbody tr:nth-child(even) td:not([class]) { background: rgba(0,0,0,0.02); }
+
+  td.p    { background: #e4f0eb; color: #1e4d3a; font-weight: 600; }
+  td.yes  { background: #e4f0eb; color: #1e4d3a; font-weight: 600; }
+  td.no   { background: #f5e8e8; color: #7a2020; font-weight: 600; }
+  td.disputed  { background: #fdf3d9; color: #8a6d1f; font-weight: 600; }
+  td.unclear   { background: #fdf3d9; color: #8a6d1f; font-weight: 600; }
+  td.spurious  { background: #ede4f5; color: #3d2060; font-weight: 600; }
+  td.heretical { background: #3d2060; color: #fff; font-weight: 600; }
+  td.forged    { background: #1a1410; color: #fff; font-weight: 600; }
+
+  caption { caption-side: bottom; text-align: left; padding-top: 8px; font-size: 11px; color: #6b5c48; }
+</style>
+</head>
+<body>
+
+  <h1>New Testament Canon Matrix</h1>
+  <p class="sub">Which books were cited by early church leaders, and how later canon lists and manuscripts classified them.</p>
+
+  <div class="legend">
+    <span><span class="swatch" style="background:#e4f0eb;"></span>Yes — cited or included</span>
+    <span><span class="swatch" style="background:#f5e8e8;"></span>No — excluded</span>
+    <span><span class="swatch" style="background:#fdf3d9;"></span>Disputed / Unclear</span>
+    <span><span class="swatch" style="background:#ede4f5;"></span>Spurious</span>
+    <span><span class="swatch" style="background:#3d2060;color:#fff;"></span>Heretical</span>
+    <span><span class="swatch" style="background:#1a1410;color:#fff;"></span>Forged</span>
+  </div>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+<tr class="group-row"><th class="corner"></th><th colspan="9" class="group citations">Citations by Church Leaders / Authors</th><th colspan="7" class="group canons">Canon Lists</th></tr>
+<tr class="date-row"><th class="corner"></th><th class="date">c. 95-97</th><th class="date">c. 110</th><th class="date">c. 130-140</th><th class="date">c. 110-150</th><th class="date">c. 150-165</th><th class="date">c. 150-202</th><th class="date">c. 160-215</th><th class="date">c. 150-220</th><th class="date">c. 185-254</th><th class="date">c. 130-140</th><th class="date">c. 170</th><th class="date">c. 325-340</th><th class="date">c. 300-325</th><th class="date">c. 330-360</th><th class="date">c. 400-440</th><th class="date">c. 400-450</th></tr>
+<tr class="name-row"><th class="corner">Book</th><th class="name">Clement R.</th><th class="name">Ignatius</th><th class="name">Papias</th><th class="name">Polycarp</th><th class="name">Justin</th><th class="name">Irenaeus</th><th class="name">Clement A.</th><th class="name">Tertullian</th><th class="name">Origen</th><th class="name">Marcion</th><th class="name">Muratorian</th><th class="name">Eusebius</th><th class="name">Codex V</th><th class="name">Codex S</th><th class="name">Codex A</th><th class="name">Syriac/Peshitta</th></tr>
+</thead>
+      <tbody>
+<tr><th class="book">Matthew</th><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Mark</th><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Luke</th><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">John</th><td></td><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Acts</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Romans</th><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">1 Corinthians</th><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">2 Corinthians</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Galatians</th><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Ephesians</th><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Philippians</th><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Colossians</th><td></td><td class="yes">YES</td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">1 Thessalonians</th><td></td><td class="yes">YES</td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">2 Thessalonians</th><td></td><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">1 Timothy</th><td></td><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">2 Timothy</th><td></td><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Titus</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Philemon</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">Hebrews</th><td class="yes">YES</td><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">James</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td></td><td class="no">NO</td><td class="no">NO</td><td class="disputed">DISPUTED</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">1 Peter</th><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">2 Peter</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="no">NO</td><td class="no">NO</td><td class="disputed">DISPUTED</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td></tr>
+<tr><th class="book">1 John</th><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="unclear">UNCLEAR</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td></tr>
+<tr><th class="book">2 John</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td></td><td class="no">NO</td><td class="unclear">UNCLEAR</td><td class="disputed">DISPUTED</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td></tr>
+<tr><th class="book">3 John</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="no">NO</td><td class="unclear">UNCLEAR</td><td class="disputed">DISPUTED</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td></tr>
+<tr><th class="book">Jude</th><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="disputed">DISPUTED</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td></tr>
+<tr><th class="book">Revelation</th><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="yes">YES</td><td class="no">NO</td></tr>
+<tr><th class="book">1 Clement</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td></tr>
+<tr><th class="book">2 Clement</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td></tr>
+<tr><th class="book">Shepherd of Hermas</th><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td></td><td class="spurious">SPURIOUS</td><td></td><td class="yes">YES</td><td></td><td></td></tr>
+<tr><th class="book">Epistle of Barnabas</th><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td class="yes">YES</td><td></td><td></td><td class="spurious">SPURIOUS</td><td></td><td class="yes">YES</td><td></td><td></td></tr>
+<tr><th class="book">Didache</th><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td></td><td></td><td class="spurious">SPURIOUS</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Apocalyse of Peter</th><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td></td><td class="yes">YES</td><td class="spurious">SPURIOUS</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Book of Wisdom/Wisdom of Solomon</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Acts of Paul (and Thecla)</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="spurious">SPURIOUS</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Gospel According to the Hebrews</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td class="spurious">SPURIOUS</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Gospel According to Peter</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="yes">YES</td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Gospel According to Thomas</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Gospel According to Matthias</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Gospel According to the Egyptians</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Acts of Andrew</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Acts of John</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="heretical">HERETICAL</td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Epistle to the Laodiceans</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="forged">FORGED</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th class="book">Epistle to the Alexandrians</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="forged">FORGED</td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+      <caption>Scroll horizontally to see all citing authors and canon lists. Blank cells mean no data recorded for that book/source pair.</caption>
+    </table>
+  </div>
+
+</body>
+</html>

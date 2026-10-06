@@ -22,7 +22,7 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
 
 <p style="margin-bottom: 0;">Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed:</p>
 <ul>
-  <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge. He dies in anguish and despair. </li>
+  <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
   <li>Matthew and Luke's birth stories introduce Jesus' divinity and remove most of his limitations.</li>
   <li>In John's gospel, Jesus seems barely human. He has no limitations and he's continuously stoic and resolute, especially in the face of death.</li>
 </ul>

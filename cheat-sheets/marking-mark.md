@@ -17,7 +17,7 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
     <li></li>
   </ul>
 </li>
-<li>50-60% of Mark's gospel is the Gospel of Luke (again, word-for-word in many places)
+<li>50-60% of Mark's material is the Gospel of Luke (again, word-for-word in many places)
   <ul>
     <li></li>
     <li></li> 

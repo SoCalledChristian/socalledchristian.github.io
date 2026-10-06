@@ -18,7 +18,7 @@ Mark was the first gospel written, but very few people realize that. After all, 
   <li>The early church fathers believed the Gospel of Matthew was the earliest one, so most Bibles throughout time have held to that tradition.</li>
   <li>Most scholars date the Gospel of Mark around the year 70.</li>
   <li>Matthew and Luke were probably written between the years 80 and 90.</li>
-  <li>John was probably written in the 90s or a little later.</li>
+  <li>John may have been written in the 90s, but many scholars place it in the second century.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Did Matthew or Luke use Mark's gospel as a source?</p>

@@ -28,7 +28,7 @@ Mark was the first gospel written. Very few people realize that. After all, it d
 <li>In both Matthew and Luke, material from Mark often appears word-for-word, and sometimes even entire paragraphs are the same.</li>
 </ul>
 
-<p style="margin-bottom: 0;">Does the order or age of the gospels even matter?</p>
+<p style="margin-bottom: 0;">Why does any of this matter?</p>
 <ul>
   <li>Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed.</li>
   <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>

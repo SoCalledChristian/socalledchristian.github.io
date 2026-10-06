@@ -33,7 +33,6 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
   <li>Most scholars date it around the year 70</li>
   <li>Matthew and Luke were probably written between the years 80 and 90</li>
   <li>John was probably in the 90s or a little later</li>
-  <li></li>
 </ul>  
 
 <p style="margin-bottom: 0;">Question/Point 3</p>

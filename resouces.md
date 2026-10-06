@@ -4,5 +4,5 @@ title: Resouces
 permalink: /resources
 ---
 Resouces 
-- [<strong>New Testament Canon Matrix</strong>](/assets/nt-canon-matrix.html)<br><br>
+- [<strong>New Testament Canon Matrix</strong>](/assets/nt-canon-matrix)<br><br>
 

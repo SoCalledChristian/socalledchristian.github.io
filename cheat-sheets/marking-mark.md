@@ -31,7 +31,7 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
 
 See more in the [PDF](/assets/pdfs/marking-mark.pdf), and add your comments below.
 
-[![Two Pauls thumbnail](/assets/thumbnails/marking-mark-thumbnail-300px.png)](/assets/pdfs/marking-mark.pdf)
+[![Marking-Up Mark thumbnail](/assets/thumbnails/marking-mark-thumbnail-300px.png)](/assets/pdfs/marking-mark.pdf)
 
 <strong>Note:</strong> Posting a comment requires a free account on our hosting service, GitHub.com. It's a safe, well-known website owned by Microsoft, and you can sign up instantly using your existing Google or Apple account.
 

@@ -11,4 +11,4 @@ Each page linked below contains an overview, a one-page PDF cheat sheet, and a c
 - [<strong>The Paper Pope</strong>](/cheat-sheets/paper-pope) - the modern and questionable doctrine of Sola Scriptura ("scripture alone")<br><br>
 - [<strong>Five Gospels</strong>](/cheat-sheets/five-gospels) - the most influential one doesn't even have a formal name<br><br>
 - [<strong>One Lord, One Faith, Two Pauls</strong>](/cheat-sheets/two-pauls) - can a Paul divided against himself stand?<br><br>
-- [<strong>Marking-Up Mark</strong>](/cheat-sheets/marking-mark) - Mark was the first, but was it also the worst?
+- [<strong>Marking-Up Mark</strong>](/cheat-sheets/marking-mark) - it was the first, but was it also the worst?

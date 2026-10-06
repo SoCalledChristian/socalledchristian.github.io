@@ -4,5 +4,5 @@ title: Resouces
 permalink: /resources
 ---
 Resouces 
-- [<strong>New Testament Canon Matrix</strong>](/cheat-sheets/paper-pope) - <br><br>
+- [<strong>New Testament Canon Matrix</strong>](/assets/nt-canon-matrix.html)<br><br>
 

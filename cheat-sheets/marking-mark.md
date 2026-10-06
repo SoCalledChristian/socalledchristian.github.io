@@ -30,7 +30,7 @@ Mark was the first gospel written. But it doesn't contain a birth story, or the 
 
 <p style="margin-bottom: 0;">Why does any of this matter?</p>
 <ul>
-  <li>Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed. 
+  <li>Reading the gospels in the proper order shows a clear progression in how Jesus is portrayed: 
     <ul>
       <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
       <li>Matthew and Luke introduce Jesus' divinity through their birth stories, and also remove most of his limitations.</li>

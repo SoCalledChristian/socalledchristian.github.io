@@ -6,7 +6,7 @@ permalink: /cheat-sheets/marking-mark
 
 What's your favorite gospel? Very few people say it's Mark. After all, it doesn't have the birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances. Some wonder why it was even included in the New Testament at all. But here we'll see that Mark is actually the cornerstone of the gospel tradition.
 
-<p style="margin-bottom: 0;">Despite the order of the gospels in the New Testament, Mark was actually the first one written. The vast majority of scholars think it predates the other gospels by at least ten years.</p>
+<p style="margin-bottom: 0;">Despite the order of the gospels in the New Testament, Mark was actually the first one written.</p>
 <ul>
   <li>Most scholars date it around the year 70</li>
   <li>Matthew and Luke were probably written between the years 80 and 90</li>

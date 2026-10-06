@@ -4,7 +4,7 @@ title: Marking-Up Mark
 permalink: /cheat-sheets/marking-mark
 ---
 
-Mark was the first gospel written, but very few people realize that. After all, it doesn't have a birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances, so how could it possibly be the oldest one? Here we'll show that Mark was not only the first, it's actually the cornerstone of the entire gospel tradition.
+Mark was the first gospel written. But it doesn't contain a birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances, so how could it possibly be the oldest one? Here we'll show that Mark was not only the first, it's actually the cornerstone of the entire gospel tradition.
 
 <p style="margin-bottom: 0;">Did Mark actually write the Gospel of Mark?</p>
 <ul>

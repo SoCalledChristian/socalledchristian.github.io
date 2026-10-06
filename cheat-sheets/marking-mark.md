@@ -4,7 +4,7 @@ title: Marking-Up Mark
 permalink: /cheat-sheets/marking-mark
 ---
 
-What's your favorite gospel? Very few people say it's Mark. After all, it doesn't have the birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances. Most people also don't know that Mark is the oldest/earliest gospel, and here we'll see that Mark is actually the cornerstone of the gospel tradition.
+Mark was the first gospel written. Very few people realize that. After all, it doesn't have the birth story, or the Sermon on the Mount, or Jesus' post-resurrection appearances. How could it possibly be the oldest one? Here we'll show that Mark was not only the first, it's actually the cornerstone of the gospel tradition.
 
 <p style="margin-bottom: 0;">Doesn't the New Testament show Matthew's gospel was the first one?</p>
 <ul>

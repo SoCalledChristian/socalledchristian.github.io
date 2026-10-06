@@ -33,6 +33,7 @@ What's your favorite gospel? Very few people say it's Mark. After all, it doesn'
     <li></li>
   </ul>
 </li>
+<li>In both Matthew and Luke, material from Mark often appears word-for-word, and sometimes even entire paragraphs are the same.</li>
 </ul>
 
   

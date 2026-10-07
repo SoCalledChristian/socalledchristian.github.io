@@ -4,5 +4,5 @@ title: Resources
 permalink: /resources
 sitemap: false
 ---
-- [<strong>New Testament Canon Matrix</strong>](/assets/html/nt-canon-matrix.html)<br><br>
+- [<strong>New Testament Canon Matrix</strong>](/assets/pdfs/nt-canon-matrix.pdf)<br><br>
 

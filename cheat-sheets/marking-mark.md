@@ -31,7 +31,7 @@ Mark was the first gospel written. But it doesn't contain a birth story, or the 
 
 <p style="margin-bottom: 0;">Why does any of this matter?</p>
 <ul>
-  <li>Placing the gospels in the order of their composition shows a clear progression in how Jesus is portrayed: 
+  <li>Placing Mark first and John last shows a clear progression in how Jesus is portrayed: 
     <ul>
       <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
       <li>Matthew and Luke introduce Jesus' divinity through their birth stories, and also remove most of his limitations.</li>
@@ -41,7 +41,7 @@ Mark was the first gospel written. But it doesn't contain a birth story, or the 
   <li>This progression is obscured by the New Testament's transposition of Mark and Matthew.</li>
 </ul>
 
-<strong>Bottom line:</strong> Reading the gospels in the chronological order of their composition shows how they transformed Jesus from a man into God.
+<strong>Bottom line:</strong> Reading the gospels in the likely chronological order of their composition shows how they transformed Jesus from a man into God.
 
 See more in the [PDF](/assets/pdfs/marking-mark.pdf), and add your comments below.
 

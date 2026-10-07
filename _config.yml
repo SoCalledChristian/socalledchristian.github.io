@@ -11,3 +11,7 @@ defaults:
       path: "assets/pdfs/**/*.pdf"
     values:
       sitemap: false
+  - scope:
+      path: "assets/html/**/*.html"
+    values:
+      sitemap: false

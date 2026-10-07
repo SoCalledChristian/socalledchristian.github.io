@@ -34,14 +34,14 @@ Mark was the first gospel written. But it doesn't contain a birth story, or the 
   <li>Placing Mark first and John last shows a clear progression in how Jesus is portrayed: 
     <ul>
       <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
-      <li>Matthew and Luke introduce Jesus' divinity through their birth stories, and also remove most of his limitations.</li>
+      <li>Matthew and Luke introduce Jesus' divinity through their birth stories, and also remove most of his limitations. Most scholars place Matthew before Luke, and some think Matthew was a source for Luke.</li>
       <li>In John's gospel, Jesus seems barely human. He has no limitations, and he's continuously stoic and resolute, especially in the face of death.</li>         
   </ul>
   </li>
   <li>This progression is obscured by the New Testament's transposition of Mark and Matthew.</li>
 </ul>
 
-<strong>Bottom line:</strong> Reading the gospels in the likely chronological order of their composition shows how they transformed Jesus from a man into God.
+<strong>Bottom line:</strong> Reading the gospels in the likely chronological order of their composition shows how Jesus was transformed from a man into God.
 
 See more in the [PDF](/assets/pdfs/marking-mark.pdf), and add your comments below.
 

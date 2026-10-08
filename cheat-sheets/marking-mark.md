@@ -41,7 +41,7 @@ Mark was the first gospel written. But it doesn't contain a birth story, or the 
   <li>This progression is obscured by the New Testament's transposition of Mark and Matthew.</li>
 </ul>
 
-<strong>Bottom line:</strong> Reading the gospels in the likely chronological order of their composition shows their growing emphasis on Jesus' divinity.
+<strong>Bottom line:</strong> Reading the gospels in the likely chronological order of their composition shows their growing emphasis on Jesus' divinity, but often at the expense of his humanity.
 
 See more in the [PDF](/assets/pdfs/marking-mark.pdf), and add your comments below.
 

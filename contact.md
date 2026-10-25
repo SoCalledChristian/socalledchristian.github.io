@@ -6,7 +6,7 @@ sitemap: false
 
 <meta name="robots" content="noindex">
 
-We hate spam and bots as much as you do, so your email address is 100% safe with us. We do not use tracking cookies, we will never sell or share your data with anyone, and we will only use your email address to reply to your message.
+We hate spam and bots as much as you do, so your email address is 100% safe with us. We do not use tracking files, we will never sell or share your data with anyone, and we will only use your email address to reply to your message.
 
 <form action="https://formspree.io/f/mbgjwgka" method="POST" class="contact-form">
   <div class="form-group">

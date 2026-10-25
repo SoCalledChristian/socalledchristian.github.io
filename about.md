@@ -6,7 +6,7 @@ permalink: /about
 
 So-Called Christian was created by a lifelong follower of Jesus with decades of personal study in New Testament scholarship and church history.
 
-The goal is simple: to present concise reference material on topics that most churchgoers were never taught, and to create a space where those topics can be discussed without judgment.
+The goal here is simple: to present concise reference material on topics that most churchgoers were never taught, and to create a space where those topics can be discussed without judgment.
 
 No pressure. No persuasion. No ads. No agenda beyond open-minded questions and exploration.  
 

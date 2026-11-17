@@ -36,7 +36,7 @@ Sola Scriptura is the Protestant doctrine that scripture alone is the authority 
 <ul>
   <li>For the first ~70% of Christian history, Sola Scriptura was impossible.</li>
   <li>It has caused Christianity to splinter into countless denominations (and sub-denominations), each claiming scriptural authority.</li>
-  <li>A large portion of the New Testament was written by a false prophet (according to Deut. 18:17-22) – a man who was also in conflict with the original apostles throughout his entire ministry.</li>
+  <li>A large portion of the New Testament was written by a false prophet (according to Deut. 18:17-22) - a man who was also in conflict with the original apostles throughout most of his ministry.</li>
 </ul>
 
 See more in the [PDF](/assets/pdfs/paper-pope.pdf), and add your comments below.

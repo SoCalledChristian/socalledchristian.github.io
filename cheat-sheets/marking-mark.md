@@ -20,7 +20,7 @@ Mark was the first narrative gospel written. But it doesn't contain a birth stor
   <li>Almost all agree that John was probably written after the other three.</li>
 </ul>
 
-<p style="margin-bottom: 0;">Did Matthew or Luke use Mark's gospel as a source?</p>
+<p style="margin-bottom: 0;">Did Matthew and/or Luke use Mark's gospel as a source?</p>
 <ul>
 <li>The literary relationship between Mark, Matthew, and Luke is virtually indisputable.</li>
 <li>Collectively, these three are known as the Synoptic Gospels (synoptic means "seeing together") because they have so much material in common.</li>

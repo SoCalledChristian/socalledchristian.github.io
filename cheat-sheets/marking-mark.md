@@ -34,7 +34,7 @@ Mark was the first narrative gospel written. But it doesn't contain a birth stor
   <li>Placing Mark first and John last shows a clear progression in how Jesus is portrayed: 
     <ul>
       <li>In Mark's gospel, Jesus' humanity is on full display. He has limitations in both power and knowledge, and he dies in anguish and despair. </li>
-      <li>Matthew and Luke introduce Jesus' divinity through their birth stories, and also remove most of his limitations. Most scholars place Matthew before Luke, and some think Matthew was a source for Luke.</li>
+      <li>Matthew and Luke introduce Jesus' divinity through their birth stories, and also remove most of his limitations. Most scholars date Matthew before Luke, and some think Matthew was a source for Luke.</li>
       <li>In John's gospel, Jesus seems barely human. He has no limitations, and he's continuously stoic and resolute, especially in the face of death.</li>         
   </ul>
   </li>

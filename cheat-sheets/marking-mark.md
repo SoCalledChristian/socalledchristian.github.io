@@ -17,7 +17,7 @@ Mark was the first narrative gospel written. But it doesn't contain a birth stor
   <li>The early church fathers thought the Gospel of Matthew was the earliest one, so most Bibles throughout time have held to that tradition.</li>
   <li>Scholars generally date Mark to around the year 70, although there's no firm evidence for that.</li>
   <li>Most also think Matthew and Luke were written about ten to twenty years after Mark.</li>
-  <li>Almost all agree that John was probably written after Matthew and Luke.</li>
+  <li>Almost all agree that John was probably written after the other three.</li>
 </ul>
 
 <p style="margin-bottom: 0;">Did Matthew or Luke use Mark's gospel as a source?</p>

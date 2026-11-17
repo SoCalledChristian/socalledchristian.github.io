@@ -6,7 +6,7 @@ permalink: /cheat-sheets/two-pauls
 
 Who's your favorite apostle? If you said Paul, then *which* Paul is your favorite? The one in the book of Acts, or the one who wrote the letters?  If that follow-up question doesn't make sense, then consider these others:
 
-<p style="margin-bottom: 0;">Does Acts agree with Paul's letters?</p>
+<p style="margin-bottom: 0;">Doesn't Acts agree with Paul's letters?</p>
 <ul>
 <li>Sometimes. However, Acts presents information that's nowhere in Paul's letters:
   <ul>
